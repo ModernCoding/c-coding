@@ -31,9 +31,18 @@ int main ()
   printf ("\n\n");
   printf ("Is 1 + 1 equal to 2? %s", is ? "Yes" : "No");
 
-  bool isTheSame = 1 == "1";
+  int i = 1;
+  char c = '1';
+  bool isTheSame = i == c;
   printf ("\n\n");
   printf ("Same types? %s", isTheSame ? "Yes" : "No");
 
+  int num1 = 1;
+  int num10 = 10;
+  int num100 = 100;
+  printf ("\n\n");
+  printf ("num1: %03d, num10: %03d, num100: %03d", num1, num10, num100);
+  
+  printf ("\n");
   return 0;
 }

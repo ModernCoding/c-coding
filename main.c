@@ -1,5 +1,6 @@
 #include <math.h>
 #include <stdio.h>
+#include <stdbool.h>
 
 int main ()
 {
@@ -21,6 +22,18 @@ int main ()
   // long double phi2 = 2.0L * sinl(54.0L * pi / 180.0L);
   // printf ("\n\n");
   // printf ("The value of phi2 is: %.25Lf", phi2);
+
+  char name[] = "Alice";
+  printf ("\n\n");
+  printf ("My name is %s.", name);
+
+  bool is = 1 + 1 == 2;
+  printf ("\n\n");
+  printf ("Is 1 + 1 equal to 2? %s", is ? "Yes" : "No");
+
+  bool isTheSame = 1 == "1";
+  printf ("\n\n");
+  printf ("Same types? %s", isTheSame ? "Yes" : "No");
 
   return 0;
 }

@@ -22,7 +22,8 @@ int main() {
   fgets(name, sizeof(name), stdin);
 
   // Remove the newline character from the name string
-  name[strcspn(name, "\n")] = '\0';
+  // name[strcspn(name, "\n")] = '\0';
+  name[strlen(name) - 1] = '\0';
 
   printf("%s\n", name);
   printf("%d\n", age);

@@ -53,7 +53,7 @@ void input (int min, int max, int random, int i) {
     return;
   }
 
-  printf ("It is %s!\n", guess < random ? "bigger" : "smaller");
+  printf ("It is %s!\n\n", guess < random ? "bigger" : "smaller");
   return input (min, max, random, --i);
 
 }

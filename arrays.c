@@ -3,6 +3,12 @@
 
 typedef char Initials [ 3 ];
 
+enum Trolleybus {
+  LAXOU = 3,
+  PULNOY = 33,
+  SEICHAMPS = 43
+};
+
 
 int main () {
 
@@ -23,6 +29,10 @@ int main () {
 
   Initials me = "MB\0";
   printf("%s\n", me);
+
+  enum Trolleybus line = LAXOU;
+  printf("%s\n", line);
+
 
   return 0;
 

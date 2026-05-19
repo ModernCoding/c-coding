@@ -54,6 +54,6 @@ void input (int min, int max, int random, int i) {
   }
 
   printf ("It is %s!\n", guess < random ? "bigger" : "smaller");
-  input (min, max, random, --i);
+  return input (min, max, random, --i);
 
 }

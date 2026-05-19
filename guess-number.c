@@ -4,6 +4,13 @@
 #include <time.h>
 
 
+// prototypes 
+
+void input (int min, int max, int random, int i);
+
+
+// main
+
 int main () {
 
   srand (time (NULL));
@@ -12,41 +19,41 @@ int main () {
   int max = 1000;
   int random = (rand () % (max - min + 1)) + min;
 
-  int guess = 0;
-  char chances[] = "chances";
+  input (min, max, random, 10);
+  return 0;
+
+}
 
 
-  for (int i = 10; i > -1; --i) {
+// functions
 
-    if (i < 1) {
-      printf ("You lost; the number was %d\n", random);
-      break;
-    }
+void input (int min, int max, int random, int i) {
 
-    if (i < 2) {
-      chances [ strlen (chances) - 1 ] = '\0';
-    }
-
-    printf (
-      "Guess number between %d and %d; %d %s remaining:",
-      min,
-      max,
-      i,
-      chances
-    );
-
-    scanf (i < 10 ? " %d" : "%d", &guess);
-
-    if (guess == random) {
-      printf ("You won!");
-      break;
-    }
-
-    printf ("It is %s!\n", guess < random ? "bigger" : "smaller");
-
+  if (i < 1) {
+    printf ("You lost; the number was %d\n", random);
+    return;
   }
 
 
-  return 0;
+  printf (
+    "Guess number between %d and %d; %d %s remaining: ",
+    min,
+    max,
+    i,
+    i < 2 ? "chance" : "chances"
+  );
+
+
+  int guess = 0;
+
+  scanf (i < 10 ? " %d" : "%d", &guess);
+
+  if (guess == random) {
+    printf ("You won!\n");
+    return;
+  }
+
+  printf ("It is %s!\n", guess < random ? "bigger" : "smaller");
+  input (min, max, random, --i);
 
 }

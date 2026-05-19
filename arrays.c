@@ -31,7 +31,7 @@ int main () {
   printf("%s\n", me);
 
   enum Trolleybus line = LAXOU;
-  printf("%s\n", line);
+  printf("%d\n", line);
 
 
   return 0;

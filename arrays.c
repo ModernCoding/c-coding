@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 
+typedef char Initials [ 3 ];
+
+
 int main () {
 
   int numbers [] = { 4, 19 };
@@ -17,6 +20,9 @@ int main () {
 
   printf ("%ld\n", sizeof (fruits));
   printf ("%ld\n", sizeof (fruits [ 0 ]));
+
+  Initials me = "MB\0";
+  printf("%s\n", me);
 
   return 0;
 

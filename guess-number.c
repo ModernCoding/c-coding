@@ -17,9 +17,8 @@ int main () {
 
   int min = 1;
   int max = 1000;
-  int random = (rand () % (max - min + 1)) + min;
 
-  input (min, max, random, 10);
+  input (min, max, (rand () % (max - min + 1)) + min, 10);
   return 0;
 
 }

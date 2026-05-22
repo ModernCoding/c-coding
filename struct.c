@@ -15,6 +15,8 @@ int main () {
   struct Student student1 = { "Spongebob", 30, 2.5, true };
 
   printf ("%s\n", student1.name);
+  printf ("%d\n", student1.age);
+  printf ("%.2f\n", student1.gpa);
 
   return 0;
 

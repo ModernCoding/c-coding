@@ -17,6 +17,22 @@ int main () {
   printf ("File was written successfully!\n");
 
   fclose (pFile);
+
+
+  FILE *pFile2 = fopen ("output.txt", "r");
+
+  char buffer [ 1024 ] = { 0 };
+
+  if (pFile2 == NULL) {
+    printf ("Error opening file!\n");
+    return 1;
+  }
+
+  while (fgets (buffer, sizeof (buffer), pFile2) != NULL) {
+    printf ("%s", buffer);
+  }
+
+  fclose (pFile2);
   
   return 0;
 

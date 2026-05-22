@@ -17,6 +17,7 @@ int main () {
   printf ("%s\n", student1.name);
   printf ("%d\n", student1.age);
   printf ("%.2f\n", student1.gpa);
+  printf ("%d\n", student1.isFullTime);
 
   return 0;
 

@@ -4,59 +4,47 @@
 
 // prototypes
 
-int fibonacciLoop (int i);
-void fibonacciRecursive (int i, int *previous, int *sum);
+long long fibonacciLoop (int i);
 
-long long get_milliseconds (void);
+void fibonacciRecursive (
+  const int *max,
+  int *i,
+  long long *previous1,
+  long long *previous2,
+  long long *sum
+);
+
+long long get_nanoseconds (void);
 
 
 // main
 
 int main () {
 
-  printf ("%d\n", fibonacciLoop (0));
-  printf ("%d\n", fibonacciLoop (1));
-  printf ("%d\n", fibonacciLoop (2));
-  printf ("%d\n", fibonacciLoop (3));
-  printf ("%d\n", fibonacciLoop (4));
-  printf ("%d\n", fibonacciLoop (5));
+  const int max = 88;
 
-  int previous = 1;
-  int sum = 0;
+  long long tsFibLoopStart = get_nanoseconds ();
+  printf ("%lld\n", fibonacciLoop (max));
 
-  fibonacciRecursive (0, &previous, &sum);
-  printf ("%d\n", sum);
+  long long tsFibLoopStop = get_nanoseconds ();
+  printf ("Loop took %lld ns\n", tsFibLoopStop - tsFibLoopStart);
 
-  previous = 1;
-  sum = 0;
+  int i = 0;
+  long long previous1 = 0;
+  long long previous2 = 0;
+  long long sum = 0;
+  long long tsFibRecursiveStart = get_nanoseconds ();
 
-  fibonacciRecursive (1, &previous, &sum);
-  printf ("%d\n", sum);
+  fibonacciRecursive (&max, &i, &previous1, &previous2, &sum);
 
-  previous = 1;
-  sum = 0;
-
-  fibonacciRecursive (2, &previous, &sum);
-  printf ("%d\n", sum);
-
-  previous = 1;
-  sum = 0;
-
-  fibonacciRecursive (3, &previous, &sum);
-  printf ("%d\n", sum);
-
-  previous = 1;
-  sum = 0;
-
-  fibonacciRecursive (4, &previous, &sum);
-  printf ("%d\n", sum);
-
-  previous = 1;
-  sum = 0;
-
-  fibonacciRecursive (5, &previous, &sum);
-  printf ("%d\n", sum);
-
+  long long tsFibRecursiveStop = get_nanoseconds ();
+  
+  printf ("%lld\n", sum);
+  
+  printf (
+    "Recursive took %lld ns\n",
+    tsFibRecursiveStop - tsFibRecursiveStart
+  );
   
   return 0;
 }
@@ -64,14 +52,14 @@ int main () {
 
 // functions
 
-int fibonacciLoop (int i) {
+long long fibonacciLoop (int i) {
 
-  int buffer = 0, previous = 1, sum = 0;
+  long long previous1 = 0, previous2 = 0, sum = 0;
 
-  for (int j = i; j > 0; j--) {
-    buffer = sum;
-    sum += previous;
-    previous = j < i ? buffer : sum;
+  for (int j = 0; j <= i; j++) {
+    sum = j == 1 ? 1 : previous1 + previous2;
+    previous1 = previous2;
+    previous2 = sum;
   }
 
   return sum;
@@ -79,31 +67,36 @@ int fibonacciLoop (int i) {
 }
 
 
-void fibonacciRecursive (int i, int *previous, int *sum) {
+void fibonacciRecursive (
+  const int *max,
+  int *i,
+  long long *previous1,
+  long long *previous2,
+  long long *sum
+) {
 
-  int buffer = 0;
-
-  if (i < 1) {
+  if (*i > *max) {
     return;
   }
 
-  buffer = *sum;
-  *sum += *previous;
-  *previous = buffer > 0 ? buffer : *sum;
+  *sum = *i == 1 ? 1 : *previous1 + *previous2;
+  *previous1 = *previous2;
+  *previous2 = *sum;
+  (*i)++;
 
-  return fibonacciRecursive (--i, previous, sum);
+  return fibonacciRecursive (max, i, previous1, previous2, sum);
 
 }
 
 
-long long get_milliseconds (void) {
+long long get_nanoseconds (void) {
 
   struct timespec ts;
   
   // CLOCK_MONOTONIC is preferred for measuring intervals
   clock_gettime (CLOCK_MONOTONIC, &ts);
   
-  // Convert seconds to ms and add nanoseconds converted to ms
-  return (long long) ts.tv_sec * 1000
-    + (long long) ts.tv_nsec / 1000000;
+  // Convert seconds to ns and add nanoseconds
+  return (long long) ts.tv_sec * 1000000000LL
+    + (long long) ts.tv_nsec;
 }

@@ -16,6 +16,7 @@ int main () {
 
   printf ("&age == %p\n", &age);
   printf ("pAge == %p\n", pAge);
+  printf ("*pAge == %d\n", *pAge);
   printf ("&pAge == %p\n", &pAge);
 
   birthday (pAge);

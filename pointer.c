@@ -2,8 +2,9 @@
 
 
 void birthday (int *age) {
-  printf ("%p\n", age);
-  printf ("%d\n", *age);
+  printf ("function\n");
+  printf ("age == %p\n", age);
+  printf ("*age == %d\n", *age);
   (*age)++;
 }
 
@@ -13,9 +14,9 @@ int main () {
   int age = 25;
   int *pAge = &age;
 
-  printf ("%p\n", &age);
-  printf ("%p\n", pAge);
-  printf ("%p\n", &pAge);
+  printf ("&age == %p\n", &age);
+  printf ("pAge == %p\n", pAge);
+  printf ("&pAge == %p\n", &pAge);
 
   birthday (pAge);
   printf ("%d\n", age);

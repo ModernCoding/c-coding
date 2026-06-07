@@ -1,0 +1,1 @@
+gcc header/main.c header/coord.c -o header/main

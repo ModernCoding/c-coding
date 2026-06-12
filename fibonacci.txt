@@ -1,0 +1,6224 @@
+
+
+Position nr. 777
+1585187547896371234
+Loop took 5217 ns
+1585187547896371234
+Recursive took 72179 ns
+RECURSIVE is 13.835346 times slower than LOOP
+
+
+Position nr. 776
+3873414755751628309
+Loop took 4323 ns
+3873414755751628309
+Recursive took 32256 ns
+RECURSIVE is 7.461485 times slower than LOOP
+
+
+Position nr. 775
+16158516865854294541
+Loop took 3422 ns
+16158516865854294541
+Recursive took 31020 ns
+RECURSIVE is 9.064874 times slower than LOOP
+
+
+Position nr. 774
+6161641963606885384
+Loop took 3583 ns
+6161641963606885384
+Recursive took 30844 ns
+RECURSIVE is 8.608429 times slower than LOOP
+
+
+Position nr. 773
+9996874902247409157
+Loop took 3385 ns
+9996874902247409157
+Recursive took 30908 ns
+RECURSIVE is 9.130871 times slower than LOOP
+
+
+Position nr. 772
+14611511135069027843
+Loop took 3526 ns
+14611511135069027843
+Recursive took 30746 ns
+RECURSIVE is 8.719796 times slower than LOOP
+
+
+Position nr. 771
+13832107840887932930
+Loop took 3337 ns
+13832107840887932930
+Recursive took 30684 ns
+RECURSIVE is 9.195085 times slower than LOOP
+
+
+Position nr. 770
+779403294181094913
+Loop took 3591 ns
+779403294181094913
+Recursive took 30450 ns
+RECURSIVE is 8.479532 times slower than LOOP
+
+
+Position nr. 769
+13052704546706838017
+Loop took 3356 ns
+13052704546706838017
+Recursive took 30799 ns
+RECURSIVE is 9.177294 times slower than LOOP
+
+
+Position nr. 768
+6173442821183808512
+Loop took 3527 ns
+6173442821183808512
+Recursive took 30446 ns
+RECURSIVE is 8.632265 times slower than LOOP
+
+
+Position nr. 767
+6879261725523029505
+Loop took 3051 ns
+6879261725523029505
+Recursive took 27721 ns
+RECURSIVE is 9.085873 times slower than LOOP
+
+
+Position nr. 766
+17740925169370330623
+Loop took 3027 ns
+17740925169370330623
+Recursive took 27838 ns
+RECURSIVE is 9.196564 times slower than LOOP
+
+
+Position nr. 765
+7585080629862250498
+Loop took 3034 ns
+7585080629862250498
+Recursive took 27535 ns
+RECURSIVE is 9.075478 times slower than LOOP
+
+
+Position nr. 764
+10155844539508080125
+Loop took 3012 ns
+10155844539508080125
+Recursive took 27437 ns
+RECURSIVE is 9.109230 times slower than LOOP
+
+
+Position nr. 763
+15875980164063721989
+Loop took 3018 ns
+15875980164063721989
+Recursive took 27396 ns
+RECURSIVE is 9.077535 times slower than LOOP
+
+
+Position nr. 762
+12726608449153909752
+Loop took 2999 ns
+12726608449153909752
+Recursive took 27505 ns
+RECURSIVE is 9.171390 times slower than LOOP
+
+
+Position nr. 761
+3149371714909812237
+Loop took 3050 ns
+3149371714909812237
+Recursive took 27467 ns
+RECURSIVE is 9.005574 times slower than LOOP
+
+
+Position nr. 760
+9577236734244097515
+Loop took 3021 ns
+9577236734244097515
+Recursive took 27352 ns
+RECURSIVE is 9.053956 times slower than LOOP
+
+
+Position nr. 759
+12018879054375266338
+Loop took 2986 ns
+12018879054375266338
+Recursive took 27677 ns
+RECURSIVE is 9.268922 times slower than LOOP
+
+
+Position nr. 758
+16005101753578382793
+Loop took 2987 ns
+16005101753578382793
+Recursive took 27481 ns
+RECURSIVE is 9.200201 times slower than LOOP
+
+
+Position nr. 757
+14460521374506435161
+Loop took 2991 ns
+14460521374506435161
+Recursive took 27288 ns
+RECURSIVE is 9.123370 times slower than LOOP
+
+
+Position nr. 756
+1544580379071947632
+Loop took 3001 ns
+1544580379071947632
+Recursive took 27521 ns
+RECURSIVE is 9.170610 times slower than LOOP
+
+
+Position nr. 755
+12915940995434487529
+Loop took 2973 ns
+12915940995434487529
+Recursive took 27145 ns
+RECURSIVE is 9.130508 times slower than LOOP
+
+
+Position nr. 754
+7075383457347011719
+Loop took 2995 ns
+7075383457347011719
+Recursive took 27009 ns
+RECURSIVE is 9.018030 times slower than LOOP
+
+
+Position nr. 753
+5840557538087475810
+Loop took 2994 ns
+5840557538087475810
+Recursive took 26931 ns
+RECURSIVE is 8.994990 times slower than LOOP
+
+
+Position nr. 752
+1234825919259535909
+Loop took 2983 ns
+1234825919259535909
+Recursive took 26983 ns
+RECURSIVE is 9.045592 times slower than LOOP
+
+
+Position nr. 751
+4605731618827939901
+Loop took 2984 ns
+4605731618827939901
+Recursive took 26896 ns
+RECURSIVE is 9.013405 times slower than LOOP
+
+
+Position nr. 750
+15075838374141147624
+Loop took 2984 ns
+15075838374141147624
+Recursive took 26800 ns
+RECURSIVE is 8.981233 times slower than LOOP
+
+
+Position nr. 749
+7976637318396343893
+Loop took 3746 ns
+7976637318396343893
+Recursive took 33969 ns
+RECURSIVE is 9.068073 times slower than LOOP
+
+
+Position nr. 748
+7099201055744803731
+Loop took 3047 ns
+7099201055744803731
+Recursive took 26510 ns
+RECURSIVE is 8.700361 times slower than LOOP
+
+
+Position nr. 747
+877436262651540162
+Loop took 3035 ns
+877436262651540162
+Recursive took 26531 ns
+RECURSIVE is 8.741680 times slower than LOOP
+
+
+Position nr. 746
+6221764793093263569
+Loop took 3110 ns
+6221764793093263569
+Recursive took 26446 ns
+RECURSIVE is 8.503537 times slower than LOOP
+
+
+Position nr. 745
+13102415543267828209
+Loop took 3028 ns
+13102415543267828209
+Recursive took 26541 ns
+RECURSIVE is 8.765192 times slower than LOOP
+
+
+Position nr. 744
+11566093323534986976
+Loop took 2943 ns
+11566093323534986976
+Recursive took 26276 ns
+RECURSIVE is 8.928304 times slower than LOOP
+
+
+Position nr. 743
+1536322219732841233
+Loop took 3043 ns
+1536322219732841233
+Recursive took 26476 ns
+RECURSIVE is 8.700624 times slower than LOOP
+
+
+Position nr. 742
+10029771103802145743
+Loop took 3072 ns
+10029771103802145743
+Recursive took 26427 ns
+RECURSIVE is 8.602539 times slower than LOOP
+
+
+Position nr. 741
+9953295189640247106
+Loop took 2706 ns
+9953295189640247106
+Recursive took 24012 ns
+RECURSIVE is 8.873614 times slower than LOOP
+
+
+Position nr. 740
+76475914161898637
+Loop took 2735 ns
+76475914161898637
+Recursive took 23910 ns
+RECURSIVE is 8.742230 times slower than LOOP
+
+
+Position nr. 739
+9876819275478348469
+Loop took 2703 ns
+9876819275478348469
+Recursive took 24044 ns
+RECURSIVE is 8.895302 times slower than LOOP
+
+
+Position nr. 738
+8646400712393101784
+Loop took 2675 ns
+8646400712393101784
+Recursive took 23956 ns
+RECURSIVE is 8.955514 times slower than LOOP
+
+
+Position nr. 737
+1230418563085246685
+Loop took 2671 ns
+1230418563085246685
+Recursive took 23783 ns
+RECURSIVE is 8.904156 times slower than LOOP
+
+
+Position nr. 736
+7415982149307855099
+Loop took 2678 ns
+7415982149307855099
+Recursive took 23738 ns
+RECURSIVE is 8.864078 times slower than LOOP
+
+
+Position nr. 735
+12261180487486943202
+Loop took 2782 ns
+12261180487486943202
+Recursive took 23673 ns
+RECURSIVE is 8.509346 times slower than LOOP
+
+
+Position nr. 734
+13601545735530463513
+Loop took 2686 ns
+13601545735530463513
+Recursive took 23798 ns
+RECURSIVE is 8.860015 times slower than LOOP
+
+
+Position nr. 733
+17106378825666031305
+Loop took 2688 ns
+17106378825666031305
+Recursive took 23716 ns
+RECURSIVE is 8.822917 times slower than LOOP
+
+
+Position nr. 732
+14941910983573983824
+Loop took 2676 ns
+14941910983573983824
+Recursive took 23710 ns
+RECURSIVE is 8.860239 times slower than LOOP
+
+
+Position nr. 731
+2164467842092047481
+Loop took 2648 ns
+2164467842092047481
+Recursive took 23797 ns
+RECURSIVE is 8.986782 times slower than LOOP
+
+
+Position nr. 730
+12777443141481936343
+Loop took 2676 ns
+12777443141481936343
+Recursive took 23653 ns
+RECURSIVE is 8.838939 times slower than LOOP
+
+
+Position nr. 729
+7833768774319662754
+Loop took 2662 ns
+7833768774319662754
+Recursive took 23705 ns
+RECURSIVE is 8.904959 times slower than LOOP
+
+
+Position nr. 728
+4943674367162273589
+Loop took 2643 ns
+4943674367162273589
+Recursive took 23464 ns
+RECURSIVE is 8.877790 times slower than LOOP
+
+
+Position nr. 727
+2890094407157389165
+Loop took 2645 ns
+2890094407157389165
+Recursive took 23452 ns
+RECURSIVE is 8.866541 times slower than LOOP
+
+
+Position nr. 726
+2053579960004884424
+Loop took 2637 ns
+2053579960004884424
+Recursive took 23520 ns
+RECURSIVE is 8.919226 times slower than LOOP
+
+
+Position nr. 725
+836514447152504741
+Loop took 2675 ns
+836514447152504741
+Recursive took 23522 ns
+RECURSIVE is 8.793271 times slower than LOOP
+
+
+Position nr. 724
+1217065512852379683
+Loop took 2620 ns
+1217065512852379683
+Recursive took 23387 ns
+RECURSIVE is 8.926336 times slower than LOOP
+
+
+Position nr. 723
+18066193008009676674
+Loop took 2649 ns
+18066193008009676674
+Recursive took 23346 ns
+RECURSIVE is 8.813137 times slower than LOOP
+
+
+Position nr. 722
+1597616578552254625
+Loop took 2628 ns
+1597616578552254625
+Recursive took 23486 ns
+RECURSIVE is 8.936834 times slower than LOOP
+
+
+Position nr. 721
+16468576429457422049
+Loop took 3136 ns
+16468576429457422049
+Recursive took 27932 ns
+RECURSIVE is 8.906888 times slower than LOOP
+
+
+Position nr. 720
+3575784222804384192
+Loop took 2649 ns
+3575784222804384192
+Recursive took 23331 ns
+RECURSIVE is 8.807475 times slower than LOOP
+
+
+Position nr. 719
+12892792206653037857
+Loop took 2745 ns
+12892792206653037857
+Recursive took 23403 ns
+RECURSIVE is 8.525683 times slower than LOOP
+
+
+Position nr. 718
+9129736089860897951
+Loop took 2622 ns
+9129736089860897951
+Recursive took 23375 ns
+RECURSIVE is 8.914950 times slower than LOOP
+
+
+Position nr. 717
+3763056116792139906
+Loop took 2738 ns
+3763056116792139906
+Recursive took 23176 ns
+RECURSIVE is 8.464573 times slower than LOOP
+
+
+Position nr. 716
+5366679973068758045
+Loop took 2603 ns
+5366679973068758045
+Recursive took 23386 ns
+RECURSIVE is 8.984249 times slower than LOOP
+
+
+Position nr. 715
+16843120217432933477
+Loop took 2647 ns
+16843120217432933477
+Recursive took 23074 ns
+RECURSIVE is 8.717038 times slower than LOOP
+
+
+Position nr. 714
+6970303829345376184
+Loop took 2679 ns
+6970303829345376184
+Recursive took 23164 ns
+RECURSIVE is 8.646510 times slower than LOOP
+
+
+Position nr. 713
+9872816388087557293
+Loop took 2590 ns
+9872816388087557293
+Recursive took 22975 ns
+RECURSIVE is 8.870656 times slower than LOOP
+
+
+Position nr. 712
+15544231514967370507
+Loop took 2734 ns
+15544231514967370507
+Recursive took 23143 ns
+RECURSIVE is 8.464887 times slower than LOOP
+
+
+Position nr. 711
+12775328946829738402
+Loop took 2614 ns
+12775328946829738402
+Recursive took 23325 ns
+RECURSIVE is 8.923106 times slower than LOOP
+
+
+Position nr. 710
+2768902568137632105
+Loop took 2580 ns
+2768902568137632105
+Recursive took 22888 ns
+RECURSIVE is 8.871318 times slower than LOOP
+
+
+Position nr. 709
+10006426378692106297
+Loop took 2609 ns
+10006426378692106297
+Recursive took 22982 ns
+RECURSIVE is 8.808739 times slower than LOOP
+
+
+Position nr. 708
+11209220263155077424
+Loop took 2608 ns
+11209220263155077424
+Recursive took 23062 ns
+RECURSIVE is 8.842791 times slower than LOOP
+
+
+Position nr. 707
+17243950189246580489
+Loop took 2728 ns
+17243950189246580489
+Recursive took 22990 ns
+RECURSIVE is 8.427419 times slower than LOOP
+
+
+Position nr. 706
+12412014147618048551
+Loop took 2571 ns
+12412014147618048551
+Recursive took 22943 ns
+RECURSIVE is 8.923765 times slower than LOOP
+
+
+Position nr. 705
+4831936041628531938
+Loop took 2593 ns
+4831936041628531938
+Recursive took 22758 ns
+RECURSIVE is 8.776707 times slower than LOOP
+
+
+Position nr. 704
+7580078105989516613
+Loop took 2610 ns
+7580078105989516613
+Recursive took 23261 ns
+RECURSIVE is 8.912261 times slower than LOOP
+
+
+Position nr. 703
+15698602009348566941
+Loop took 2596 ns
+15698602009348566941
+Recursive took 22574 ns
+RECURSIVE is 8.695686 times slower than LOOP
+
+
+Position nr. 702
+10328220170350501288
+Loop took 2574 ns
+10328220170350501288
+Recursive took 22609 ns
+RECURSIVE is 8.783605 times slower than LOOP
+
+
+Position nr. 701
+5370381838998065653
+Loop took 2600 ns
+5370381838998065653
+Recursive took 23475 ns
+RECURSIVE is 9.028846 times slower than LOOP
+
+
+Position nr. 700
+4957838331352435635
+Loop took 2373 ns
+4957838331352435635
+Recursive took 20761 ns
+RECURSIVE is 8.748841 times slower than LOOP
+
+
+Position nr. 699
+412543507645630018
+Loop took 2380 ns
+412543507645630018
+Recursive took 20997 ns
+RECURSIVE is 8.822269 times slower than LOOP
+
+
+Position nr. 698
+4545294823706805617
+Loop took 2356 ns
+4545294823706805617
+Recursive took 20759 ns
+RECURSIVE is 8.811121 times slower than LOOP
+
+
+Position nr. 697
+14313992757648376017
+Loop took 2373 ns
+14313992757648376017
+Recursive took 20761 ns
+RECURSIVE is 8.748841 times slower than LOOP
+
+
+Position nr. 696
+8678046139767981216
+Loop took 2341 ns
+8678046139767981216
+Recursive took 20724 ns
+RECURSIVE is 8.852627 times slower than LOOP
+
+
+Position nr. 695
+5635946617880394801
+Loop took 2341 ns
+5635946617880394801
+Recursive took 20885 ns
+RECURSIVE is 8.921401 times slower than LOOP
+
+
+Position nr. 694
+3042099521887586415
+Loop took 2331 ns
+3042099521887586415
+Recursive took 20690 ns
+RECURSIVE is 8.876019 times slower than LOOP
+
+
+Position nr. 693
+2593847095992808386
+Loop took 2719 ns
+2593847095992808386
+Recursive took 24609 ns
+RECURSIVE is 9.050754 times slower than LOOP
+
+
+Position nr. 692
+448252425894778029
+Loop took 2801 ns
+448252425894778029
+Recursive took 20910 ns
+RECURSIVE is 7.465191 times slower than LOOP
+
+
+Position nr. 691
+2145594670098030357
+Loop took 2400 ns
+2145594670098030357
+Recursive took 20740 ns
+RECURSIVE is 8.641667 times slower than LOOP
+
+
+Position nr. 690
+16749401829506299288
+Loop took 2464 ns
+16749401829506299288
+Recursive took 20559 ns
+RECURSIVE is 8.343750 times slower than LOOP
+
+
+Position nr. 689
+3842936914301282685
+Loop took 2316 ns
+3842936914301282685
+Recursive took 20714 ns
+RECURSIVE is 8.943869 times slower than LOOP
+
+
+Position nr. 688
+12906464915205016603
+Loop took 2342 ns
+12906464915205016603
+Recursive took 20569 ns
+RECURSIVE is 8.782664 times slower than LOOP
+
+
+Position nr. 687
+9383216072805817698
+Loop took 2314 ns
+9383216072805817698
+Recursive took 20439 ns
+RECURSIVE is 8.832757 times slower than LOOP
+
+
+Position nr. 686
+3523248842399198905
+Loop took 2359 ns
+3523248842399198905
+Recursive took 20433 ns
+RECURSIVE is 8.661721 times slower than LOOP
+
+
+Position nr. 685
+5859967230406618793
+Loop took 2382 ns
+5859967230406618793
+Recursive took 20491 ns
+RECURSIVE is 8.602435 times slower than LOOP
+
+
+Position nr. 684
+16110025685702131728
+Loop took 2331 ns
+16110025685702131728
+Recursive took 20450 ns
+RECURSIVE is 8.773059 times slower than LOOP
+
+
+Position nr. 683
+8196685618414038681
+Loop took 2359 ns
+8196685618414038681
+Recursive took 20283 ns
+RECURSIVE is 8.598135 times slower than LOOP
+
+
+Position nr. 682
+7913340067288093047
+Loop took 2380 ns
+7913340067288093047
+Recursive took 20381 ns
+RECURSIVE is 8.563445 times slower than LOOP
+
+
+Position nr. 681
+283345551125945634
+Loop took 2374 ns
+283345551125945634
+Recursive took 20244 ns
+RECURSIVE is 8.527380 times slower than LOOP
+
+
+Position nr. 680
+7629994516162147413
+Loop took 2297 ns
+7629994516162147413
+Recursive took 20200 ns
+RECURSIVE is 8.794079 times slower than LOOP
+
+
+Position nr. 679
+11100095108673349837
+Loop took 2361 ns
+11100095108673349837
+Recursive took 20345 ns
+RECURSIVE is 8.617111 times slower than LOOP
+
+
+Position nr. 678
+14976643481198349192
+Loop took 2390 ns
+14976643481198349192
+Recursive took 20447 ns
+RECURSIVE is 8.555230 times slower than LOOP
+
+
+Position nr. 677
+14570195701184552261
+Loop took 2359 ns
+14570195701184552261
+Recursive took 20265 ns
+RECURSIVE is 8.590504 times slower than LOOP
+
+
+Position nr. 676
+406447780013796931
+Loop took 2402 ns
+406447780013796931
+Recursive took 20239 ns
+RECURSIVE is 8.425895 times slower than LOOP
+
+
+Position nr. 675
+14163747921170755330
+Loop took 2355 ns
+14163747921170755330
+Recursive took 20144 ns
+RECURSIVE is 8.553715 times slower than LOOP
+
+
+Position nr. 674
+4689443932552593217
+Loop took 2323 ns
+4689443932552593217
+Recursive took 20043 ns
+RECURSIVE is 8.628067 times slower than LOOP
+
+
+Position nr. 673
+9474303988618162113
+Loop took 2271 ns
+9474303988618162113
+Recursive took 20083 ns
+RECURSIVE is 8.843241 times slower than LOOP
+
+
+Position nr. 672
+13661884017643982720
+Loop took 2291 ns
+13661884017643982720
+Recursive took 20017 ns
+RECURSIVE is 8.737233 times slower than LOOP
+
+
+Position nr. 671
+14259164044683731009
+Loop took 2266 ns
+14259164044683731009
+Recursive took 20148 ns
+RECURSIVE is 8.891439 times slower than LOOP
+
+
+Position nr. 670
+17849464046669803327
+Loop took 2330 ns
+17849464046669803327
+Recursive took 19869 ns
+RECURSIVE is 8.527468 times slower than LOOP
+
+
+Position nr. 669
+14856444071723479298
+Loop took 2282 ns
+14856444071723479298
+Recursive took 19960 ns
+RECURSIVE is 8.746713 times slower than LOOP
+
+
+Position nr. 668
+2993019974946324029
+Loop took 2277 ns
+2993019974946324029
+Recursive took 20111 ns
+RECURSIVE is 8.832235 times slower than LOOP
+
+
+Position nr. 667
+11863424096777155269
+Loop took 2301 ns
+11863424096777155269
+Recursive took 19892 ns
+RECURSIVE is 8.644937 times slower than LOOP
+
+
+Position nr. 666
+9576339951878720376
+Loop took 2382 ns
+9576339951878720376
+Recursive took 19826 ns
+RECURSIVE is 8.323258 times slower than LOOP
+
+
+Position nr. 665
+2287084144898434893
+Loop took 2655 ns
+2287084144898434893
+Recursive took 23085 ns
+RECURSIVE is 8.694915 times slower than LOOP
+
+
+Position nr. 664
+7289255806980285483
+Loop took 2215 ns
+7289255806980285483
+Recursive took 18435 ns
+RECURSIVE is 8.322799 times slower than LOOP
+
+
+Position nr. 663
+13444572411627701026
+Loop took 2154 ns
+13444572411627701026
+Recursive took 18344 ns
+RECURSIVE is 8.516249 times slower than LOOP
+
+
+Position nr. 662
+12291427469062136073
+Loop took 2076 ns
+12291427469062136073
+Recursive took 18459 ns
+RECURSIVE is 8.891618 times slower than LOOP
+
+
+Position nr. 661
+1153144942565564953
+Loop took 2112 ns
+1153144942565564953
+Recursive took 18433 ns
+RECURSIVE is 8.727746 times slower than LOOP
+
+
+Position nr. 660
+11138282526496571120
+Loop took 2080 ns
+11138282526496571120
+Recursive took 18303 ns
+RECURSIVE is 8.799519 times slower than LOOP
+
+
+Position nr. 659
+8461606489778545449
+Loop took 2084 ns
+8461606489778545449
+Recursive took 18371 ns
+RECURSIVE is 8.815259 times slower than LOOP
+
+
+Position nr. 658
+2676676036718025671
+Loop took 2235 ns
+2676676036718025671
+Recursive took 35481 ns
+RECURSIVE is 15.875168 times slower than LOOP
+
+
+Position nr. 657
+5784930453060519778
+Loop took 3305 ns
+5784930453060519778
+Recursive took 23699 ns
+RECURSIVE is 7.170651 times slower than LOOP
+
+
+Position nr. 656
+15338489657367057509
+Loop took 2854 ns
+15338489657367057509
+Recursive took 20015 ns
+RECURSIVE is 7.012964 times slower than LOOP
+
+
+Position nr. 655
+8893184869403013885
+Loop took 2731 ns
+8893184869403013885
+Recursive took 18169 ns
+RECURSIVE is 6.652874 times slower than LOOP
+
+
+Position nr. 654
+6445304787964043624
+Loop took 2109 ns
+6445304787964043624
+Recursive took 18029 ns
+RECURSIVE is 8.548601 times slower than LOOP
+
+
+Position nr. 653
+2447880081438970261
+Loop took 2077 ns
+2447880081438970261
+Recursive took 18213 ns
+RECURSIVE is 8.768897 times slower than LOOP
+
+
+Position nr. 652
+3997424706525073363
+Loop took 2048 ns
+3997424706525073363
+Recursive took 18211 ns
+RECURSIVE is 8.892090 times slower than LOOP
+
+
+Position nr. 651
+16897199448623448514
+Loop took 2069 ns
+16897199448623448514
+Recursive took 17819 ns
+RECURSIVE is 8.612373 times slower than LOOP
+
+
+Position nr. 650
+5546969331611176465
+Loop took 2045 ns
+5546969331611176465
+Recursive took 17942 ns
+RECURSIVE is 8.773594 times slower than LOOP
+
+
+Position nr. 649
+11350230117012272049
+Loop took 2063 ns
+11350230117012272049
+Recursive took 17977 ns
+RECURSIVE is 8.714009 times slower than LOOP
+
+
+Position nr. 648
+12643483288308456032
+Loop took 2058 ns
+12643483288308456032
+Recursive took 17818 ns
+RECURSIVE is 8.657920 times slower than LOOP
+
+
+Position nr. 647
+17153490902413367633
+Loop took 2039 ns
+17153490902413367633
+Recursive took 17901 ns
+RECURSIVE is 8.779304 times slower than LOOP
+
+
+Position nr. 646
+13936736459604640015
+Loop took 2032 ns
+13936736459604640015
+Recursive took 17952 ns
+RECURSIVE is 8.834646 times slower than LOOP
+
+
+Position nr. 645
+3216754442808727618
+Loop took 2051 ns
+3216754442808727618
+Recursive took 17850 ns
+RECURSIVE is 8.703072 times slower than LOOP
+
+
+Position nr. 644
+10719982016795912397
+Loop took 2020 ns
+10719982016795912397
+Recursive took 18097 ns
+RECURSIVE is 8.958911 times slower than LOOP
+
+
+Position nr. 643
+10943516499722366837
+Loop took 2035 ns
+10943516499722366837
+Recursive took 17796 ns
+RECURSIVE is 8.744963 times slower than LOOP
+
+
+Position nr. 642
+18223209590783097176
+Loop took 2022 ns
+18223209590783097176
+Recursive took 17710 ns
+RECURSIVE is 8.758655 times slower than LOOP
+
+
+Position nr. 641
+11167050982648821277
+Loop took 2016 ns
+11167050982648821277
+Recursive took 17647 ns
+RECURSIVE is 8.753472 times slower than LOOP
+
+
+Position nr. 640
+7056158608134275899
+Loop took 2036 ns
+7056158608134275899
+Recursive took 17989 ns
+RECURSIVE is 8.835462 times slower than LOOP
+
+
+Position nr. 639
+4110892374514545378
+Loop took 2032 ns
+4110892374514545378
+Recursive took 17560 ns
+RECURSIVE is 8.641732 times slower than LOOP
+
+
+Position nr. 638
+2945266233619730521
+Loop took 2024 ns
+2945266233619730521
+Recursive took 17742 ns
+RECURSIVE is 8.765810 times slower than LOOP
+
+
+Position nr. 637
+1165626140894814857
+Loop took 2594 ns
+1165626140894814857
+Recursive took 18201 ns
+RECURSIVE is 7.016577 times slower than LOOP
+
+
+Position nr. 636
+1779640092724915664
+Loop took 2126 ns
+1779640092724915664
+Recursive took 17445 ns
+RECURSIVE is 8.205550 times slower than LOOP
+
+
+Position nr. 635
+17832730121879450809
+Loop took 2003 ns
+17832730121879450809
+Recursive took 17455 ns
+RECURSIVE is 8.714428 times slower than LOOP
+
+
+Position nr. 634
+2393654044555016471
+Loop took 2054 ns
+2393654044555016471
+Recursive took 17448 ns
+RECURSIVE is 8.494645 times slower than LOOP
+
+
+Position nr. 633
+15439076077324434338
+Loop took 2072 ns
+15439076077324434338
+Recursive took 17474 ns
+RECURSIVE is 8.433398 times slower than LOOP
+
+
+Position nr. 632
+5401322040940133749
+Loop took 2018 ns
+5401322040940133749
+Recursive took 17424 ns
+RECURSIVE is 8.634291 times slower than LOOP
+
+
+Position nr. 631
+10037754036384300589
+Loop took 1983 ns
+10037754036384300589
+Recursive took 17581 ns
+RECURSIVE is 8.865860 times slower than LOOP
+
+
+Position nr. 630
+13810312078265384776
+Loop took 1988 ns
+13810312078265384776
+Recursive took 17372 ns
+RECURSIVE is 8.738431 times slower than LOOP
+
+
+Position nr. 629
+14674186031828467429
+Loop took 1989 ns
+14674186031828467429
+Recursive took 17470 ns
+RECURSIVE is 8.783308 times slower than LOOP
+
+
+Position nr. 628
+17582870120146468963
+Loop took 1974 ns
+17582870120146468963
+Recursive took 17240 ns
+RECURSIVE is 8.733536 times slower than LOOP
+
+
+Position nr. 627
+15538059985391550082
+Loop took 1992 ns
+15538059985391550082
+Recursive took 17089 ns
+RECURSIVE is 8.578815 times slower than LOOP
+
+
+Position nr. 626
+2044810134754918881
+Loop took 1998 ns
+2044810134754918881
+Recursive took 17322 ns
+RECURSIVE is 8.669670 times slower than LOOP
+
+
+Position nr. 625
+13493249850636631201
+Loop took 1974 ns
+13493249850636631201
+Recursive took 17109 ns
+RECURSIVE is 8.667173 times slower than LOOP
+
+
+Position nr. 624
+6998304357827839296
+Loop took 1996 ns
+6998304357827839296
+Recursive took 17190 ns
+RECURSIVE is 8.612224 times slower than LOOP
+
+
+Position nr. 623
+6494945492808791905
+Loop took 1990 ns
+6494945492808791905
+Recursive took 17199 ns
+RECURSIVE is 8.642714 times slower than LOOP
+
+
+Position nr. 622
+503358865019047391
+Loop took 1981 ns
+503358865019047391
+Recursive took 17311 ns
+RECURSIVE is 8.738516 times slower than LOOP
+
+
+Position nr. 621
+5991586627789744514
+Loop took 1984 ns
+5991586627789744514
+Recursive took 17222 ns
+RECURSIVE is 8.680444 times slower than LOOP
+
+
+Position nr. 620
+12958516310938854493
+Loop took 1969 ns
+12958516310938854493
+Recursive took 17024 ns
+RECURSIVE is 8.646013 times slower than LOOP
+
+
+Position nr. 619
+11479814390560441637
+Loop took 1957 ns
+11479814390560441637
+Recursive took 17164 ns
+RECURSIVE is 8.770567 times slower than LOOP
+
+
+Position nr. 618
+1478701920378412856
+Loop took 1972 ns
+1478701920378412856
+Recursive took 16924 ns
+RECURSIVE is 8.582150 times slower than LOOP
+
+
+Position nr. 617
+10001112470182028781
+Loop took 1991 ns
+10001112470182028781
+Recursive took 16910 ns
+RECURSIVE is 8.493219 times slower than LOOP
+
+
+Position nr. 616
+9924333523905935691
+Loop took 2036 ns
+9924333523905935691
+Recursive took 16991 ns
+RECURSIVE is 8.345285 times slower than LOOP
+
+
+Position nr. 615
+76778946276093090
+Loop took 1991 ns
+76778946276093090
+Recursive took 16988 ns
+RECURSIVE is 8.532396 times slower than LOOP
+
+
+Position nr. 614
+9847554577629842601
+Loop took 1990 ns
+9847554577629842601
+Recursive took 16750 ns
+RECURSIVE is 8.417085 times slower than LOOP
+
+
+Position nr. 613
+8675968442355802105
+Loop took 1965 ns
+8675968442355802105
+Recursive took 16747 ns
+RECURSIVE is 8.522646 times slower than LOOP
+
+
+Position nr. 612
+1171586135274040496
+Loop took 1988 ns
+1171586135274040496
+Recursive took 16788 ns
+RECURSIVE is 8.444668 times slower than LOOP
+
+
+Position nr. 611
+7504382307081761609
+Loop took 1928 ns
+7504382307081761609
+Recursive took 16710 ns
+RECURSIVE is 8.667012 times slower than LOOP
+
+
+Position nr. 610
+12113947901901830503
+Loop took 1952 ns
+12113947901901830503
+Recursive took 16699 ns
+RECURSIVE is 8.554816 times slower than LOOP
+
+
+Position nr. 609
+13837178478889482722
+Loop took 2672 ns
+13837178478889482722
+Recursive took 17174 ns
+RECURSIVE is 6.427395 times slower than LOOP
+
+
+Position nr. 608
+16723513496721899397
+Loop took 2040 ns
+16723513496721899397
+Recursive took 16726 ns
+RECURSIVE is 8.199020 times slower than LOOP
+
+
+Position nr. 607
+15560409055877134941
+Loop took 2009 ns
+15560409055877134941
+Recursive took 16720 ns
+RECURSIVE is 8.322549 times slower than LOOP
+
+
+Position nr. 606
+1163104440844764456
+Loop took 1992 ns
+1163104440844764456
+Recursive took 16918 ns
+RECURSIVE is 8.492972 times slower than LOOP
+
+
+Position nr. 605
+14397304615032370485
+Loop took 1810 ns
+14397304615032370485
+Recursive took 15546 ns
+RECURSIVE is 8.588950 times slower than LOOP
+
+
+Position nr. 604
+5212543899521945587
+Loop took 1807 ns
+5212543899521945587
+Recursive took 15566 ns
+RECURSIVE is 8.614278 times slower than LOOP
+
+
+Position nr. 603
+9184760715510424898
+Loop took 1850 ns
+9184760715510424898
+Recursive took 15484 ns
+RECURSIVE is 8.369730 times slower than LOOP
+
+
+Position nr. 602
+14474527257721072305
+Loop took 1872 ns
+14474527257721072305
+Recursive took 15453 ns
+RECURSIVE is 8.254808 times slower than LOOP
+
+
+Position nr. 601
+13156977531498904209
+Loop took 1823 ns
+13156977531498904209
+Recursive took 15456 ns
+RECURSIVE is 8.478332 times slower than LOOP
+
+
+Position nr. 600
+1317549726222168096
+Loop took 1807 ns
+1317549726222168096
+Recursive took 15409 ns
+RECURSIVE is 8.527393 times slower than LOOP
+
+
+Position nr. 599
+11839427805276736113
+Loop took 1862 ns
+11839427805276736113
+Recursive took 15481 ns
+RECURSIVE is 8.314178 times slower than LOOP
+
+
+Position nr. 598
+7924865994654983599
+Loop took 1759 ns
+7924865994654983599
+Recursive took 15343 ns
+RECURSIVE is 8.722570 times slower than LOOP
+
+
+Position nr. 597
+3914561810621752514
+Loop took 1765 ns
+3914561810621752514
+Recursive took 15342 ns
+RECURSIVE is 8.692351 times slower than LOOP
+
+
+Position nr. 596
+4010304184033231085
+Loop took 1769 ns
+4010304184033231085
+Recursive took 15317 ns
+RECURSIVE is 8.658564 times slower than LOOP
+
+
+Position nr. 595
+18351001700298073045
+Loop took 1780 ns
+18351001700298073045
+Recursive took 15236 ns
+RECURSIVE is 8.559551 times slower than LOOP
+
+
+Position nr. 594
+4106046557444709656
+Loop took 1755 ns
+4106046557444709656
+Recursive took 15282 ns
+RECURSIVE is 8.707692 times slower than LOOP
+
+
+Position nr. 593
+14244955142853363389
+Loop took 1813 ns
+14244955142853363389
+Recursive took 15245 ns
+RECURSIVE is 8.408715 times slower than LOOP
+
+
+Position nr. 592
+8307835488300897883
+Loop took 1772 ns
+8307835488300897883
+Recursive took 15239 ns
+RECURSIVE is 8.599887 times slower than LOOP
+
+
+Position nr. 591
+5937119654552465506
+Loop took 1782 ns
+5937119654552465506
+Recursive took 15277 ns
+RECURSIVE is 8.572952 times slower than LOOP
+
+
+Position nr. 590
+2370715833748432377
+Loop took 1749 ns
+2370715833748432377
+Recursive took 15245 ns
+RECURSIVE is 8.716409 times slower than LOOP
+
+
+Position nr. 589
+3566403820804033129
+Loop took 1748 ns
+3566403820804033129
+Recursive took 15191 ns
+RECURSIVE is 8.690503 times slower than LOOP
+
+
+Position nr. 588
+17251056086653950864
+Loop took 1764 ns
+17251056086653950864
+Recursive took 15088 ns
+RECURSIVE is 8.553288 times slower than LOOP
+
+
+Position nr. 587
+4762091807859633881
+Loop took 1731 ns
+4762091807859633881
+Recursive took 15133 ns
+RECURSIVE is 8.742345 times slower than LOOP
+
+
+Position nr. 586
+12488964278794316983
+Loop took 1774 ns
+12488964278794316983
+Recursive took 15069 ns
+RECURSIVE is 8.494363 times slower than LOOP
+
+
+Position nr. 585
+10719871602774868514
+Loop took 1755 ns
+10719871602774868514
+Recursive took 15123 ns
+RECURSIVE is 8.617094 times slower than LOOP
+
+
+Position nr. 584
+1769092676019448469
+Loop took 1726 ns
+1769092676019448469
+Recursive took 14994 ns
+RECURSIVE is 8.687138 times slower than LOOP
+
+
+Position nr. 583
+8950778926755420045
+Loop took 1724 ns
+8950778926755420045
+Recursive took 15020 ns
+RECURSIVE is 8.712297 times slower than LOOP
+
+
+Position nr. 582
+11265057822973580040
+Loop took 1743 ns
+11265057822973580040
+Recursive took 15033 ns
+RECURSIVE is 8.624785 times slower than LOOP
+
+
+Position nr. 581
+16132465177491391621
+Loop took 2288 ns
+16132465177491391621
+Recursive took 15537 ns
+RECURSIVE is 6.790647 times slower than LOOP
+
+
+Position nr. 580
+13579336719191740035
+Loop took 1806 ns
+13579336719191740035
+Recursive took 14988 ns
+RECURSIVE is 8.299003 times slower than LOOP
+
+
+Position nr. 579
+2553128458299651586
+Loop took 1743 ns
+2553128458299651586
+Recursive took 14920 ns
+RECURSIVE is 8.559954 times slower than LOOP
+
+
+Position nr. 578
+11026208260892088449
+Loop took 1802 ns
+11026208260892088449
+Recursive took 14806 ns
+RECURSIVE is 8.216426 times slower than LOOP
+
+
+Position nr. 577
+9973664271117114753
+Loop took 1767 ns
+9973664271117114753
+Recursive took 14802 ns
+RECURSIVE is 8.376910 times slower than LOOP
+
+
+Position nr. 576
+1052543989774973696
+Loop took 1715 ns
+1052543989774973696
+Recursive took 14796 ns
+RECURSIVE is 8.627405 times slower than LOOP
+
+
+Position nr. 575
+8921120281342141057
+Loop took 1710 ns
+8921120281342141057
+Recursive took 14933 ns
+RECURSIVE is 8.732749 times slower than LOOP
+
+
+Position nr. 574
+10578167782142384255
+Loop took 1763 ns
+10578167782142384255
+Recursive took 14963 ns
+RECURSIVE is 8.487238 times slower than LOOP
+
+
+Position nr. 573
+16789696572909308418
+Loop took 1789 ns
+16789696572909308418
+Recursive took 14782 ns
+RECURSIVE is 8.262717 times slower than LOOP
+
+
+Position nr. 572
+12235215282942627453
+Loop took 1713 ns
+12235215282942627453
+Recursive took 14695 ns
+RECURSIVE is 8.578517 times slower than LOOP
+
+
+Position nr. 571
+4554481289966680965
+Loop took 1709 ns
+4554481289966680965
+Recursive took 14598 ns
+RECURSIVE is 8.541837 times slower than LOOP
+
+
+Position nr. 570
+7680733992975946488
+Loop took 1721 ns
+7680733992975946488
+Recursive took 14517 ns
+RECURSIVE is 8.435212 times slower than LOOP
+
+
+Position nr. 569
+15320491370700286093
+Loop took 1730 ns
+15320491370700286093
+Recursive took 14570 ns
+RECURSIVE is 8.421965 times slower than LOOP
+
+
+Position nr. 568
+10806986695985212011
+Loop took 1744 ns
+10806986695985212011
+Recursive took 14681 ns
+RECURSIVE is 8.418005 times slower than LOOP
+
+
+Position nr. 567
+4513504674715074082
+Loop took 1699 ns
+4513504674715074082
+Recursive took 14470 ns
+RECURSIVE is 8.516775 times slower than LOOP
+
+
+Position nr. 566
+6293482021270137929
+Loop took 1683 ns
+6293482021270137929
+Recursive took 14529 ns
+RECURSIVE is 8.632799 times slower than LOOP
+
+
+Position nr. 565
+16666766727154487769
+Loop took 1695 ns
+16666766727154487769
+Recursive took 14351 ns
+RECURSIVE is 8.466667 times slower than LOOP
+
+
+Position nr. 564
+8073459367825201776
+Loop took 1667 ns
+8073459367825201776
+Recursive took 14448 ns
+RECURSIVE is 8.667067 times slower than LOOP
+
+
+Position nr. 563
+8593307359329285993
+Loop took 1665 ns
+8593307359329285993
+Recursive took 14437 ns
+RECURSIVE is 8.670871 times slower than LOOP
+
+
+Position nr. 562
+17926896082205467399
+Loop took 1691 ns
+17926896082205467399
+Recursive took 14451 ns
+RECURSIVE is 8.545831 times slower than LOOP
+
+
+Position nr. 561
+9113155350833370210
+Loop took 1658 ns
+9113155350833370210
+Recursive took 14438 ns
+RECURSIVE is 8.708082 times slower than LOOP
+
+
+Position nr. 560
+8813740731372097189
+Loop took 1663 ns
+8813740731372097189
+Recursive took 14580 ns
+RECURSIVE is 8.767288 times slower than LOOP
+
+
+Position nr. 559
+299414619461273021
+Loop took 1686 ns
+299414619461273021
+Recursive took 14508 ns
+RECURSIVE is 8.604982 times slower than LOOP
+
+
+Position nr. 558
+8514326111910824168
+Loop took 1663 ns
+8514326111910824168
+Recursive took 14369 ns
+RECURSIVE is 8.640409 times slower than LOOP
+
+
+Position nr. 557
+10231832581260000469
+Loop took 1677 ns
+10231832581260000469
+Recursive took 14279 ns
+RECURSIVE is 8.514609 times slower than LOOP
+
+
+Position nr. 556
+16729237604360375315
+Loop took 1670 ns
+16729237604360375315
+Recursive took 14330 ns
+RECURSIVE is 8.580838 times slower than LOOP
+
+
+Position nr. 555
+11949339050609176770
+Loop took 1671 ns
+11949339050609176770
+Recursive took 14302 ns
+RECURSIVE is 8.558947 times slower than LOOP
+
+
+Position nr. 554
+4779898553751198545
+Loop took 1642 ns
+4779898553751198545
+Recursive took 14719 ns
+RECURSIVE is 8.964068 times slower than LOOP
+
+
+Position nr. 553
+7169440496857978225
+Loop took 2278 ns
+7169440496857978225
+Recursive took 14253 ns
+RECURSIVE is 6.256804 times slower than LOOP
+
+
+Position nr. 552
+16057202130602771936
+Loop took 1702 ns
+16057202130602771936
+Recursive took 14153 ns
+RECURSIVE is 8.315511 times slower than LOOP
+
+
+Position nr. 551
+9558982439964757905
+Loop took 1664 ns
+9558982439964757905
+Recursive took 14507 ns
+RECURSIVE is 8.718149 times slower than LOOP
+
+
+Position nr. 550
+6498219690638014031
+Loop took 2516 ns
+6498219690638014031
+Recursive took 17057 ns
+RECURSIVE is 6.779412 times slower than LOOP
+
+
+Position nr. 549
+3060762749326743874
+Loop took 1745 ns
+3060762749326743874
+Recursive took 15612 ns
+RECURSIVE is 8.946705 times slower than LOOP
+
+
+Position nr. 548
+3437456941311270157
+Loop took 2200 ns
+3437456941311270157
+Recursive took 15341 ns
+RECURSIVE is 6.973182 times slower than LOOP
+
+
+Position nr. 547
+18070049881725025333
+Loop took 1806 ns
+18070049881725025333
+Recursive took 15006 ns
+RECURSIVE is 8.308970 times slower than LOOP
+
+
+Position nr. 546
+3814151133295796440
+Loop took 1797 ns
+3814151133295796440
+Recursive took 15294 ns
+RECURSIVE is 8.510851 times slower than LOOP
+
+
+Position nr. 545
+14255898748429228893
+Loop took 2087 ns
+14255898748429228893
+Recursive took 16075 ns
+RECURSIVE is 7.702444 times slower than LOOP
+
+
+Position nr. 544
+8004996458576119163
+Loop took 2332 ns
+8004996458576119163
+Recursive took 16233 ns
+RECURSIVE is 6.960978 times slower than LOOP
+
+
+Position nr. 543
+6250902289853109730
+Loop took 1859 ns
+6250902289853109730
+Recursive took 13181 ns
+RECURSIVE is 7.090371 times slower than LOOP
+
+
+Position nr. 542
+1754094168723009433
+Loop took 1645 ns
+1754094168723009433
+Recursive took 13041 ns
+RECURSIVE is 7.927660 times slower than LOOP
+
+
+Position nr. 541
+4496808121130100297
+Loop took 1520 ns
+4496808121130100297
+Recursive took 13048 ns
+RECURSIVE is 8.584211 times slower than LOOP
+
+
+Position nr. 540
+15704030121302460752
+Loop took 1528 ns
+15704030121302460752
+Recursive took 13133 ns
+RECURSIVE is 8.594895 times slower than LOOP
+
+
+Position nr. 539
+7239522073537191161
+Loop took 1514 ns
+7239522073537191161
+Recursive took 12880 ns
+RECURSIVE is 8.507266 times slower than LOOP
+
+
+Position nr. 538
+8464508047765269591
+Loop took 1509 ns
+8464508047765269591
+Recursive took 12880 ns
+RECURSIVE is 8.535454 times slower than LOOP
+
+
+Position nr. 537
+17221758099481473186
+Loop took 1520 ns
+17221758099481473186
+Recursive took 12800 ns
+RECURSIVE is 8.421053 times slower than LOOP
+
+
+Position nr. 536
+9689494021993348021
+Loop took 1497 ns
+9689494021993348021
+Recursive took 12848 ns
+RECURSIVE is 8.582498 times slower than LOOP
+
+
+Position nr. 535
+7532264077488125165
+Loop took 1497 ns
+7532264077488125165
+Recursive took 12803 ns
+RECURSIVE is 8.552438 times slower than LOOP
+
+
+Position nr. 534
+2157229944505222856
+Loop took 1501 ns
+2157229944505222856
+Recursive took 12791 ns
+RECURSIVE is 8.521652 times slower than LOOP
+
+
+Position nr. 533
+5375034132982902309
+Loop took 1493 ns
+5375034132982902309
+Recursive took 13020 ns
+RECURSIVE is 8.720697 times slower than LOOP
+
+
+Position nr. 532
+15228939885231872163
+Loop took 1530 ns
+15228939885231872163
+Recursive took 12761 ns
+RECURSIVE is 8.340523 times slower than LOOP
+
+
+Position nr. 531
+8592838321460581762
+Loop took 1504 ns
+8592838321460581762
+Recursive took 12776 ns
+RECURSIVE is 8.494681 times slower than LOOP
+
+
+Position nr. 530
+6636101563771290401
+Loop took 1482 ns
+6636101563771290401
+Recursive took 12725 ns
+RECURSIVE is 8.586370 times slower than LOOP
+
+
+Position nr. 529
+1956736757689291361
+Loop took 1486 ns
+1956736757689291361
+Recursive took 12747 ns
+RECURSIVE is 8.578062 times slower than LOOP
+
+
+Position nr. 528
+4679364806081999040
+Loop took 1476 ns
+4679364806081999040
+Recursive took 12686 ns
+RECURSIVE is 8.594851 times slower than LOOP
+
+
+Position nr. 527
+15724116025316843937
+Loop took 1515 ns
+15724116025316843937
+Recursive took 12590 ns
+RECURSIVE is 8.310231 times slower than LOOP
+
+
+Position nr. 526
+7401992854474706719
+Loop took 9019 ns
+7401992854474706719
+Recursive took 13277 ns
+RECURSIVE is 1.472114 times slower than LOOP
+
+
+Position nr. 525
+8322123170842137218
+Loop took 2075 ns
+8322123170842137218
+Recursive took 12592 ns
+RECURSIVE is 6.068434 times slower than LOOP
+
+
+Position nr. 524
+17526613757342121117
+Loop took 1658 ns
+17526613757342121117
+Recursive took 12576 ns
+RECURSIVE is 7.585042 times slower than LOOP
+
+
+Position nr. 523
+9242253487209567717
+Loop took 1585 ns
+9242253487209567717
+Recursive took 12699 ns
+RECURSIVE is 8.011987 times slower than LOOP
+
+
+Position nr. 522
+8284360270132553400
+Loop took 1492 ns
+8284360270132553400
+Recursive took 12588 ns
+RECURSIVE is 8.436997 times slower than LOOP
+
+
+Position nr. 521
+957893217077014317
+Loop took 1486 ns
+957893217077014317
+Recursive took 12486 ns
+RECURSIVE is 8.402423 times slower than LOOP
+
+
+Position nr. 520
+7326467053055539083
+Loop took 1473 ns
+7326467053055539083
+Recursive took 12568 ns
+RECURSIVE is 8.532247 times slower than LOOP
+
+
+Position nr. 519
+12078170237731026850
+Loop took 1490 ns
+12078170237731026850
+Recursive took 12479 ns
+RECURSIVE is 8.375168 times slower than LOOP
+
+
+Position nr. 518
+13695040889034063849
+Loop took 1472 ns
+13695040889034063849
+Recursive took 12395 ns
+RECURSIVE is 8.420516 times slower than LOOP
+
+
+Position nr. 517
+16829873422406514617
+Loop took 1465 ns
+16829873422406514617
+Recursive took 12672 ns
+RECURSIVE is 8.649829 times slower than LOOP
+
+
+Position nr. 516
+15311911540337100848
+Loop took 1451 ns
+15311911540337100848
+Recursive took 12366 ns
+RECURSIVE is 8.522398 times slower than LOOP
+
+
+Position nr. 515
+1517961882069413769
+Loop took 1465 ns
+1517961882069413769
+Recursive took 12391 ns
+RECURSIVE is 8.458020 times slower than LOOP
+
+
+Position nr. 514
+13793949658267687079
+Loop took 1455 ns
+13793949658267687079
+Recursive took 12351 ns
+RECURSIVE is 8.488660 times slower than LOOP
+
+
+Position nr. 513
+6170756297511278306
+Loop took 1465 ns
+6170756297511278306
+Recursive took 12370 ns
+RECURSIVE is 8.443686 times slower than LOOP
+
+
+Position nr. 512
+7623193360756408773
+Loop took 1460 ns
+7623193360756408773
+Recursive took 12271 ns
+RECURSIVE is 8.404795 times slower than LOOP
+
+
+Position nr. 511
+16994307010464421149
+Loop took 1438 ns
+16994307010464421149
+Recursive took 12348 ns
+RECURSIVE is 8.586926 times slower than LOOP
+
+
+Position nr. 510
+9075630424001539240
+Loop took 1454 ns
+9075630424001539240
+Recursive took 12271 ns
+RECURSIVE is 8.439477 times slower than LOOP
+
+
+Position nr. 509
+7918676586462881909
+Loop took 1448 ns
+7918676586462881909
+Recursive took 12422 ns
+RECURSIVE is 8.578729 times slower than LOOP
+
+
+Position nr. 508
+1156953837538657331
+Loop took 1429 ns
+1156953837538657331
+Recursive took 12213 ns
+RECURSIVE is 8.546536 times slower than LOOP
+
+
+Position nr. 507
+6761722748924224578
+Loop took 1429 ns
+6761722748924224578
+Recursive took 12283 ns
+RECURSIVE is 8.595521 times slower than LOOP
+
+
+Position nr. 506
+12841975162323984369
+Loop took 1465 ns
+12841975162323984369
+Recursive took 12229 ns
+RECURSIVE is 8.347440 times slower than LOOP
+
+
+Position nr. 505
+12366491660309791825
+Loop took 1442 ns
+12366491660309791825
+Recursive took 12483 ns
+RECURSIVE is 8.656727 times slower than LOOP
+
+
+Position nr. 504
+475483502014192544
+Loop took 1438 ns
+475483502014192544
+Recursive took 12084 ns
+RECURSIVE is 8.403338 times slower than LOOP
+
+
+Position nr. 503
+11891008158295599281
+Loop took 1441 ns
+11891008158295599281
+Recursive took 12100 ns
+RECURSIVE is 8.396947 times slower than LOOP
+
+
+Position nr. 502
+7031219417428144879
+Loop took 1435 ns
+7031219417428144879
+Recursive took 12114 ns
+RECURSIVE is 8.441812 times slower than LOOP
+
+
+Position nr. 501
+4859788740867454402
+Loop took 1409 ns
+4859788740867454402
+Recursive took 12004 ns
+RECURSIVE is 8.519517 times slower than LOOP
+
+
+Position nr. 500
+2171430676560690477
+Loop took 1420 ns
+2171430676560690477
+Recursive took 12032 ns
+RECURSIVE is 8.473239 times slower than LOOP
+
+
+Position nr. 499
+2688358064306763925
+Loop took 1408 ns
+2688358064306763925
+Recursive took 11859 ns
+RECURSIVE is 8.422585 times slower than LOOP
+
+
+Position nr. 498
+17929816685963478168
+Loop took 9120 ns
+17929816685963478168
+Recursive took 12543 ns
+RECURSIVE is 1.375329 times slower than LOOP
+
+
+Position nr. 497
+3205285452052837373
+Loop took 1847 ns
+3205285452052837373
+Recursive took 11998 ns
+RECURSIVE is 6.495939 times slower than LOOP
+
+
+Position nr. 496
+14724531233910640795
+Loop took 1709 ns
+14724531233910640795
+Recursive took 12041 ns
+RECURSIVE is 7.045641 times slower than LOOP
+
+
+Position nr. 495
+6927498291851748194
+Loop took 1435 ns
+6927498291851748194
+Recursive took 12021 ns
+RECURSIVE is 8.377003 times slower than LOOP
+
+
+Position nr. 494
+7797032942058892601
+Loop took 1450 ns
+7797032942058892601
+Recursive took 12359 ns
+RECURSIVE is 8.523448 times slower than LOOP
+
+
+Position nr. 493
+17577209423502407209
+Loop took 1433 ns
+17577209423502407209
+Recursive took 11795 ns
+RECURSIVE is 8.230984 times slower than LOOP
+
+
+Position nr. 492
+8666567592266037008
+Loop took 1770 ns
+8666567592266037008
+Recursive took 11781 ns
+RECURSIVE is 6.655932 times slower than LOOP
+
+
+Position nr. 491
+8910641831236370201
+Loop took 1612 ns
+8910641831236370201
+Recursive took 11811 ns
+RECURSIVE is 7.326923 times slower than LOOP
+
+
+Position nr. 490
+18202669834739218423
+Loop took 1478 ns
+18202669834739218423
+Recursive took 11739 ns
+RECURSIVE is 7.942490 times slower than LOOP
+
+
+Position nr. 489
+9154716070206703394
+Loop took 1402 ns
+9154716070206703394
+Recursive took 11634 ns
+RECURSIVE is 8.298146 times slower than LOOP
+
+
+Position nr. 488
+9047953764532515029
+Loop took 1459 ns
+9047953764532515029
+Recursive took 11735 ns
+RECURSIVE is 8.043180 times slower than LOOP
+
+
+Position nr. 487
+106762305674188365
+Loop took 1437 ns
+106762305674188365
+Recursive took 11649 ns
+RECURSIVE is 8.106472 times slower than LOOP
+
+
+Position nr. 486
+8941191458858326664
+Loop took 1457 ns
+8941191458858326664
+Recursive took 11630 ns
+RECURSIVE is 7.982155 times slower than LOOP
+
+
+Position nr. 485
+9612314920525413317
+Loop took 1435 ns
+9612314920525413317
+Recursive took 11817 ns
+RECURSIVE is 8.234843 times slower than LOOP
+
+
+Position nr. 484
+17775620612042464963
+Loop took 1422 ns
+17775620612042464963
+Recursive took 11693 ns
+RECURSIVE is 8.222925 times slower than LOOP
+
+
+Position nr. 483
+10283438382192499970
+Loop took 1475 ns
+10283438382192499970
+Recursive took 11491 ns
+RECURSIVE is 7.790508 times slower than LOOP
+
+
+Position nr. 482
+7492182229849964993
+Loop took 1400 ns
+7492182229849964993
+Recursive took 11542 ns
+RECURSIVE is 8.244286 times slower than LOOP
+
+
+Position nr. 481
+2791256152342534977
+Loop took 1422 ns
+2791256152342534977
+Recursive took 11514 ns
+RECURSIVE is 8.097046 times slower than LOOP
+
+
+Position nr. 480
+4700926077507430016
+Loop took 1408 ns
+4700926077507430016
+Recursive took 11496 ns
+RECURSIVE is 8.164773 times slower than LOOP
+
+
+Position nr. 479
+16537074148544656577
+Loop took 1377 ns
+16537074148544656577
+Recursive took 11938 ns
+RECURSIVE is 8.669572 times slower than LOOP
+
+
+Position nr. 478
+6610596002672325055
+Loop took 1368 ns
+6610596002672325055
+Recursive took 11426 ns
+RECURSIVE is 8.352339 times slower than LOOP
+
+
+Position nr. 477
+9926478145872331522
+Loop took 1347 ns
+9926478145872331522
+Recursive took 11379 ns
+RECURSIVE is 8.447661 times slower than LOOP
+
+
+Position nr. 476
+15130861930509545149
+Loop took 1414 ns
+15130861930509545149
+Recursive took 11380 ns
+RECURSIVE is 8.048091 times slower than LOOP
+
+
+Position nr. 475
+13242360289072337989
+Loop took 1480 ns
+13242360289072337989
+Recursive took 11398 ns
+RECURSIVE is 7.701351 times slower than LOOP
+
+
+Position nr. 474
+1888501641437207160
+Loop took 1347 ns
+1888501641437207160
+Recursive took 11433 ns
+RECURSIVE is 8.487751 times slower than LOOP
+
+
+Position nr. 473
+11353858647635130829
+Loop took 1542 ns
+11353858647635130829
+Recursive took 11322 ns
+RECURSIVE is 7.342412 times slower than LOOP
+
+
+Position nr. 472
+8981387067511627947
+Loop took 1432 ns
+8981387067511627947
+Recursive took 11302 ns
+RECURSIVE is 7.892458 times slower than LOOP
+
+
+Position nr. 471
+2372471580123502882
+Loop took 1339 ns
+2372471580123502882
+Recursive took 11388 ns
+RECURSIVE is 8.504854 times slower than LOOP
+
+
+Position nr. 470
+6608915487388125065
+Loop took 1893 ns
+6608915487388125065
+Recursive took 11717 ns
+RECURSIVE is 6.189646 times slower than LOOP
+
+
+Position nr. 469
+14210300166444929433
+Loop took 1438 ns
+14210300166444929433
+Recursive took 11126 ns
+RECURSIVE is 7.737135 times slower than LOOP
+
+
+Position nr. 468
+10845359394652747248
+Loop took 1370 ns
+10845359394652747248
+Recursive took 11096 ns
+RECURSIVE is 8.099270 times slower than LOOP
+
+
+Position nr. 467
+3364940771792182185
+Loop took 1400 ns
+3364940771792182185
+Recursive took 11078 ns
+RECURSIVE is 7.912857 times slower than LOOP
+
+
+Position nr. 466
+7480418622860565063
+Loop took 1324 ns
+7480418622860565063
+Recursive took 11056 ns
+RECURSIVE is 8.350453 times slower than LOOP
+
+
+Position nr. 465
+14331266222641168738
+Loop took 1344 ns
+14331266222641168738
+Recursive took 11129 ns
+RECURSIVE is 8.280506 times slower than LOOP
+
+
+Position nr. 464
+11595896473928947941
+Loop took 1347 ns
+11595896473928947941
+Recursive took 11204 ns
+RECURSIVE is 8.317743 times slower than LOOP
+
+
+Position nr. 463
+2735369748712220797
+Loop took 1319 ns
+2735369748712220797
+Recursive took 11185 ns
+RECURSIVE is 8.479909 times slower than LOOP
+
+
+Position nr. 462
+8860526725216727144
+Loop took 1314 ns
+8860526725216727144
+Recursive took 11098 ns
+RECURSIVE is 8.445967 times slower than LOOP
+
+
+Position nr. 461
+12321587097205045269
+Loop took 1337 ns
+12321587097205045269
+Recursive took 11471 ns
+RECURSIVE is 8.579656 times slower than LOOP
+
+
+Position nr. 460
+14985683701721233491
+Loop took 1334 ns
+14985683701721233491
+Recursive took 10958 ns
+RECURSIVE is 8.214393 times slower than LOOP
+
+
+Position nr. 459
+15782647469193363394
+Loop took 1336 ns
+15782647469193363394
+Recursive took 11080 ns
+RECURSIVE is 8.293413 times slower than LOOP
+
+
+Position nr. 458
+17649780306237421713
+Loop took 1328 ns
+17649780306237421713
+Recursive took 10992 ns
+RECURSIVE is 8.277108 times slower than LOOP
+
+
+Position nr. 457
+16579611236665493297
+Loop took 1320 ns
+16579611236665493297
+Recursive took 10878 ns
+RECURSIVE is 8.240909 times slower than LOOP
+
+
+Position nr. 456
+1070169069571928416
+Loop took 1317 ns
+1070169069571928416
+Recursive took 10896 ns
+RECURSIVE is 8.273349 times slower than LOOP
+
+
+Position nr. 455
+15509442167093564881
+Loop took 1329 ns
+15509442167093564881
+Recursive took 11036 ns
+RECURSIVE is 8.303988 times slower than LOOP
+
+
+Position nr. 454
+4007470976187915151
+Loop took 1311 ns
+4007470976187915151
+Recursive took 10979 ns
+RECURSIVE is 8.374523 times slower than LOOP
+
+
+Position nr. 453
+11501971190905649730
+Loop took 1310 ns
+11501971190905649730
+Recursive took 10775 ns
+RECURSIVE is 8.225191 times slower than LOOP
+
+
+Position nr. 452
+10952243858991817037
+Loop took 1288 ns
+10952243858991817037
+Recursive took 10925 ns
+RECURSIVE is 8.482143 times slower than LOOP
+
+
+Position nr. 451
+549727331913832693
+Loop took 1307 ns
+549727331913832693
+Recursive took 10797 ns
+RECURSIVE is 8.260903 times slower than LOOP
+
+
+Position nr. 450
+10402516527077984344
+Loop took 1292 ns
+10402516527077984344
+Recursive took 10771 ns
+RECURSIVE is 8.336687 times slower than LOOP
+
+
+Position nr. 449
+8593954878545399965
+Loop took 1305 ns
+8593954878545399965
+Recursive took 10743 ns
+RECURSIVE is 8.232184 times slower than LOOP
+
+
+Position nr. 448
+1808561648532584379
+Loop took 1306 ns
+1808561648532584379
+Recursive took 10932 ns
+RECURSIVE is 8.370597 times slower than LOOP
+
+
+Position nr. 447
+6785393230012815586
+Loop took 1310 ns
+6785393230012815586
+Recursive took 10848 ns
+RECURSIVE is 8.280916 times slower than LOOP
+
+
+Position nr. 446
+13469912492229320409
+Loop took 1306 ns
+13469912492229320409
+Recursive took 10651 ns
+RECURSIVE is 8.155436 times slower than LOOP
+
+
+Position nr. 445
+11762224811493046793
+Loop took 1296 ns
+11762224811493046793
+Recursive took 11223 ns
+RECURSIVE is 8.659722 times slower than LOOP
+
+
+Position nr. 444
+1707687680736273616
+Loop took 1292 ns
+1707687680736273616
+Recursive took 10676 ns
+RECURSIVE is 8.263158 times slower than LOOP
+
+
+Position nr. 443
+10054537130756773177
+Loop took 1272 ns
+10054537130756773177
+Recursive took 10655 ns
+RECURSIVE is 8.376572 times slower than LOOP
+
+
+Position nr. 442
+10099894623689052055
+Loop took 1801 ns
+10099894623689052055
+Recursive took 11298 ns
+RECURSIVE is 6.273182 times slower than LOOP
+
+
+Position nr. 441
+18401386580777272738
+Loop took 1369 ns
+18401386580777272738
+Recursive took 10564 ns
+RECURSIVE is 7.716581 times slower than LOOP
+
+
+Position nr. 440
+10145252116621330933
+Loop took 1319 ns
+10145252116621330933
+Recursive took 10498 ns
+RECURSIVE is 7.959060 times slower than LOOP
+
+
+Position nr. 439
+8256134464155941805
+Loop took 1326 ns
+8256134464155941805
+Recursive took 10491 ns
+RECURSIVE is 7.911765 times slower than LOOP
+
+
+Position nr. 438
+1889117652465389128
+Loop took 1302 ns
+1889117652465389128
+Recursive took 10594 ns
+RECURSIVE is 8.136713 times slower than LOOP
+
+
+Position nr. 437
+6367016811690552677
+Loop took 1352 ns
+6367016811690552677
+Recursive took 10350 ns
+RECURSIVE is 7.655325 times slower than LOOP
+
+
+Position nr. 436
+13968844914484388067
+Loop took 1306 ns
+13968844914484388067
+Recursive took 10495 ns
+RECURSIVE is 8.035988 times slower than LOOP
+
+
+Position nr. 435
+10844915970915716226
+Loop took 1306 ns
+10844915970915716226
+Recursive took 10542 ns
+RECURSIVE is 8.071975 times slower than LOOP
+
+
+Position nr. 434
+3123928943568671841
+Loop took 1260 ns
+3123928943568671841
+Recursive took 10320 ns
+RECURSIVE is 8.190476 times slower than LOOP
+
+
+Position nr. 433
+7720987027347044385
+Loop took 1257 ns
+7720987027347044385
+Recursive took 10400 ns
+RECURSIVE is 8.273667 times slower than LOOP
+
+
+Position nr. 432
+13849685989931179072
+Loop took 1259 ns
+13849685989931179072
+Recursive took 10612 ns
+RECURSIVE is 8.428912 times slower than LOOP
+
+
+Position nr. 431
+12318045111125416929
+Loop took 1242 ns
+12318045111125416929
+Recursive took 10253 ns
+RECURSIVE is 8.255233 times slower than LOOP
+
+
+Position nr. 430
+1531640878805762143
+Loop took 1248 ns
+1531640878805762143
+Recursive took 10240 ns
+RECURSIVE is 8.205128 times slower than LOOP
+
+
+Position nr. 429
+10786404232319654786
+Loop took 1234 ns
+10786404232319654786
+Recursive took 10152 ns
+RECURSIVE is 8.226904 times slower than LOOP
+
+
+Position nr. 428
+9191980720195658973
+Loop took 1285 ns
+9191980720195658973
+Recursive took 10190 ns
+RECURSIVE is 7.929961 times slower than LOOP
+
+
+Position nr. 427
+1594423512123995813
+Loop took 1246 ns
+1594423512123995813
+Recursive took 10179 ns
+RECURSIVE is 8.169342 times slower than LOOP
+
+
+Position nr. 426
+7597557208071663160
+Loop took 1246 ns
+7597557208071663160
+Recursive took 10136 ns
+RECURSIVE is 8.134831 times slower than LOOP
+
+
+Position nr. 425
+12443610377761884269
+Loop took 1256 ns
+12443610377761884269
+Recursive took 10119 ns
+RECURSIVE is 8.056529 times slower than LOOP
+
+
+Position nr. 424
+13600690904019330507
+Loop took 1226 ns
+13600690904019330507
+Recursive took 10576 ns
+RECURSIVE is 8.626427 times slower than LOOP
+
+
+Position nr. 423
+17289663547452105378
+Loop took 1077 ns
+17289663547452105378
+Recursive took 8947 ns
+RECURSIVE is 8.307335 times slower than LOOP
+
+
+Position nr. 422
+14757771430276776745
+Loop took 1089 ns
+14757771430276776745
+Recursive took 8913 ns
+RECURSIVE is 8.184573 times slower than LOOP
+
+
+Position nr. 421
+2531892117175328633
+Loop took 1095 ns
+2531892117175328633
+Recursive took 8836 ns
+RECURSIVE is 8.069406 times slower than LOOP
+
+
+Position nr. 420
+12225879313101448112
+Loop took 1072 ns
+12225879313101448112
+Recursive took 8866 ns
+RECURSIVE is 8.270522 times slower than LOOP
+
+
+Position nr. 419
+8752756877783432137
+Loop took 1101 ns
+8752756877783432137
+Recursive took 8850 ns
+RECURSIVE is 8.038147 times slower than LOOP
+
+
+Position nr. 418
+3473122435318015975
+Loop took 1154 ns
+3473122435318015975
+Recursive took 8771 ns
+RECURSIVE is 7.600520 times slower than LOOP
+
+
+Position nr. 417
+5279634442465416162
+Loop took 1083 ns
+5279634442465416162
+Recursive took 14334 ns
+RECURSIVE is 13.235457 times slower than LOOP
+
+
+Position nr. 416
+16640232066562151429
+Loop took 1778 ns
+16640232066562151429
+Recursive took 11341 ns
+RECURSIVE is 6.378515 times slower than LOOP
+
+
+Position nr. 415
+7086146449612816349
+Loop took 1323 ns
+7086146449612816349
+Recursive took 9878 ns
+RECURSIVE is 7.466364 times slower than LOOP
+
+
+Position nr. 414
+9554085616949335080
+Loop took 1453 ns
+9554085616949335080
+Recursive took 9550 ns
+RECURSIVE is 6.572608 times slower than LOOP
+
+
+Position nr. 413
+15978804906373032885
+Loop took 1294 ns
+15978804906373032885
+Recursive took 9104 ns
+RECURSIVE is 7.035549 times slower than LOOP
+
+
+Position nr. 412
+12022024784285853811
+Loop took 1065 ns
+12022024784285853811
+Recursive took 9066 ns
+RECURSIVE is 8.512676 times slower than LOOP
+
+
+Position nr. 411
+3956780122087179074
+Loop took 1082 ns
+3956780122087179074
+Recursive took 9000 ns
+RECURSIVE is 8.317930 times slower than LOOP
+
+
+Position nr. 410
+8065244662198674737
+Loop took 1073 ns
+8065244662198674737
+Recursive took 8991 ns
+RECURSIVE is 8.379310 times slower than LOOP
+
+
+Position nr. 409
+14338279533598055953
+Loop took 1063 ns
+14338279533598055953
+Recursive took 8960 ns
+RECURSIVE is 8.428975 times slower than LOOP
+
+
+Position nr. 408
+12173709202310170400
+Loop took 1066 ns
+12173709202310170400
+Recursive took 8935 ns
+RECURSIVE is 8.381801 times slower than LOOP
+
+
+Position nr. 407
+2164570331287885553
+Loop took 1065 ns
+2164570331287885553
+Recursive took 8945 ns
+RECURSIVE is 8.399061 times slower than LOOP
+
+
+Position nr. 406
+10009138871022284847
+Loop took 1051 ns
+10009138871022284847
+Recursive took 8903 ns
+RECURSIVE is 8.470980 times slower than LOOP
+
+
+Position nr. 405
+10602175533975152322
+Loop took 1056 ns
+10602175533975152322
+Recursive took 8866 ns
+RECURSIVE is 8.395833 times slower than LOOP
+
+
+Position nr. 404
+17853707410756684141
+Loop took 1051 ns
+17853707410756684141
+Recursive took 8872 ns
+RECURSIVE is 8.441484 times slower than LOOP
+
+
+Position nr. 403
+11195212196928019797
+Loop took 1048 ns
+11195212196928019797
+Recursive took 8820 ns
+RECURSIVE is 8.416031 times slower than LOOP
+
+
+Position nr. 402
+6658495213828664344
+Loop took 1062 ns
+6658495213828664344
+Recursive took 8868 ns
+RECURSIVE is 8.350282 times slower than LOOP
+
+
+Position nr. 401
+4536716983099355453
+Loop took 1060 ns
+4536716983099355453
+Recursive took 8951 ns
+RECURSIVE is 8.444340 times slower than LOOP
+
+
+Position nr. 400
+2121778230729308891
+Loop took 1057 ns
+2121778230729308891
+Recursive took 8793 ns
+RECURSIVE is 8.318827 times slower than LOOP
+
+
+Position nr. 399
+2414938752370046562
+Loop took 1056 ns
+2414938752370046562
+Recursive took 8750 ns
+RECURSIVE is 8.285985 times slower than LOOP
+
+
+Position nr. 398
+18153583552068813945
+Loop took 1044 ns
+18153583552068813945
+Recursive took 8737 ns
+RECURSIVE is 8.368774 times slower than LOOP
+
+
+Position nr. 397
+2708099274010784233
+Loop took 1023 ns
+2708099274010784233
+Recursive took 8390 ns
+RECURSIVE is 8.201369 times slower than LOOP
+
+
+Position nr. 396
+15445484278058029712
+Loop took 985 ns
+15445484278058029712
+Recursive took 7957 ns
+RECURSIVE is 8.078173 times slower than LOOP
+
+
+Position nr. 395
+5709359069662306137
+Loop took 987 ns
+5709359069662306137
+Recursive took 7868 ns
+RECURSIVE is 7.971631 times slower than LOOP
+
+
+Position nr. 394
+9736125208395723575
+Loop took 972 ns
+9736125208395723575
+Recursive took 7838 ns
+RECURSIVE is 8.063786 times slower than LOOP
+
+
+Position nr. 393
+14419977934976134178
+Loop took 981 ns
+14419977934976134178
+Recursive took 7820 ns
+RECURSIVE is 7.971458 times slower than LOOP
+
+
+Position nr. 392
+13762891347129141013
+Loop took 972 ns
+13762891347129141013
+Recursive took 7828 ns
+RECURSIVE is 8.053498 times slower than LOOP
+
+
+Position nr. 391
+657086587846993165
+Loop took 978 ns
+657086587846993165
+Recursive took 8029 ns
+RECURSIVE is 8.209611 times slower than LOOP
+
+
+Position nr. 390
+13105804759282147848
+Loop took 965 ns
+13105804759282147848
+Recursive took 7828 ns
+RECURSIVE is 8.111917 times slower than LOOP
+
+
+Position nr. 389
+5998025902274396933
+Loop took 968 ns
+5998025902274396933
+Recursive took 7801 ns
+RECURSIVE is 8.058884 times slower than LOOP
+
+
+Position nr. 388
+7107778857007750915
+Loop took 968 ns
+7107778857007750915
+Recursive took 7728 ns
+RECURSIVE is 7.983471 times slower than LOOP
+
+
+Position nr. 387
+17336991118976197634
+Loop took 975 ns
+17336991118976197634
+Recursive took 7683 ns
+RECURSIVE is 7.880000 times slower than LOOP
+
+
+Position nr. 386
+8217531811741104897
+Loop took 1298 ns
+8217531811741104897
+Recursive took 8044 ns
+RECURSIVE is 6.197227 times slower than LOOP
+
+
+Position nr. 385
+9119459307235092737
+Loop took 1063 ns
+9119459307235092737
+Recursive took 7798 ns
+RECURSIVE is 7.335842 times slower than LOOP
+
+
+Position nr. 384
+17544816578215563776
+Loop took 957 ns
+17544816578215563776
+Recursive took 7763 ns
+RECURSIVE is 8.111808 times slower than LOOP
+
+
+Position nr. 383
+10021386802729080577
+Loop took 942 ns
+10021386802729080577
+Recursive took 7649 ns
+RECURSIVE is 8.119958 times slower than LOOP
+
+
+Position nr. 382
+7523429775486483199
+Loop took 980 ns
+7523429775486483199
+Recursive took 7736 ns
+RECURSIVE is 7.893878 times slower than LOOP
+
+
+Position nr. 381
+2497957027242597378
+Loop took 937 ns
+2497957027242597378
+Recursive took 7568 ns
+RECURSIVE is 8.076841 times slower than LOOP
+
+
+Position nr. 380
+5025472748243885821
+Loop took 932 ns
+5025472748243885821
+Recursive took 7571 ns
+RECURSIVE is 8.123391 times slower than LOOP
+
+
+Position nr. 379
+15919228352708263173
+Loop took 951 ns
+15919228352708263173
+Recursive took 7695 ns
+RECURSIVE is 8.091483 times slower than LOOP
+
+
+Position nr. 378
+7552988469245174264
+Loop took 957 ns
+7552988469245174264
+Recursive took 7764 ns
+RECURSIVE is 8.112853 times slower than LOOP
+
+
+Position nr. 377
+8366239883463088909
+Loop took 925 ns
+8366239883463088909
+Recursive took 7496 ns
+RECURSIVE is 8.103784 times slower than LOOP
+
+
+Position nr. 376
+17633492659491636971
+Loop took 946 ns
+17633492659491636971
+Recursive took 7510 ns
+RECURSIVE is 7.938689 times slower than LOOP
+
+
+Position nr. 375
+9179491297681003554
+Loop took 936 ns
+9179491297681003554
+Recursive took 7497 ns
+RECURSIVE is 8.009615 times slower than LOOP
+
+
+Position nr. 374
+8454001361810633417
+Loop took 924 ns
+8454001361810633417
+Recursive took 7428 ns
+RECURSIVE is 8.038961 times slower than LOOP
+
+
+Position nr. 373
+725489935870370137
+Loop took 934 ns
+725489935870370137
+Recursive took 7424 ns
+RECURSIVE is 7.948608 times slower than LOOP
+
+
+Position nr. 372
+7728511425940263280
+Loop took 921 ns
+7728511425940263280
+Recursive took 7410 ns
+RECURSIVE is 8.045603 times slower than LOOP
+
+
+Position nr. 371
+11443722583639658473
+Loop took 938 ns
+11443722583639658473
+Recursive took 7373 ns
+RECURSIVE is 7.860341 times slower than LOOP
+
+
+Position nr. 370
+14731532916010156423
+Loop took 931 ns
+14731532916010156423
+Recursive took 7352 ns
+RECURSIVE is 7.896885 times slower than LOOP
+
+
+Position nr. 369
+15158933741339053666
+Loop took 929 ns
+15158933741339053666
+Recursive took 7466 ns
+RECURSIVE is 8.036598 times slower than LOOP
+
+
+Position nr. 368
+18019343248380654373
+Loop took 931 ns
+18019343248380654373
+Recursive took 7399 ns
+RECURSIVE is 7.947368 times slower than LOOP
+
+
+Position nr. 367
+15586334566667950909
+Loop took 908 ns
+15586334566667950909
+Recursive took 7293 ns
+RECURSIVE is 8.031938 times slower than LOOP
+
+
+Position nr. 366
+2433008681712703464
+Loop took 921 ns
+2433008681712703464
+Recursive took 7285 ns
+RECURSIVE is 7.909881 times slower than LOOP
+
+
+Position nr. 365
+13153325884955247445
+Loop took 907 ns
+13153325884955247445
+Recursive took 7344 ns
+RECURSIVE is 8.097023 times slower than LOOP
+
+
+Position nr. 364
+7726426870467007635
+Loop took 948 ns
+7726426870467007635
+Recursive took 7248 ns
+RECURSIVE is 7.645570 times slower than LOOP
+
+
+Position nr. 363
+5426899014488239810
+Loop took 936 ns
+5426899014488239810
+Recursive took 7321 ns
+RECURSIVE is 7.821581 times slower than LOOP
+
+
+Position nr. 362
+2299527855978767825
+Loop took 954 ns
+2299527855978767825
+Recursive took 7208 ns
+RECURSIVE is 7.555556 times slower than LOOP
+
+
+Position nr. 361
+3127371158509471985
+Loop took 894 ns
+3127371158509471985
+Recursive took 7178 ns
+RECURSIVE is 8.029083 times slower than LOOP
+
+
+Position nr. 360
+17618900771178847456
+Loop took 908 ns
+17618900771178847456
+Recursive took 7149 ns
+RECURSIVE is 7.873348 times slower than LOOP
+
+
+Position nr. 359
+3955214461040176145
+Loop took 893 ns
+3955214461040176145
+Recursive took 7136 ns
+RECURSIVE is 7.991041 times slower than LOOP
+
+
+Position nr. 358
+13663686310138671311
+Loop took 906 ns
+13663686310138671311
+Recursive took 7452 ns
+RECURSIVE is 8.225166 times slower than LOOP
+
+
+Position nr. 357
+8738272224611056450
+Loop took 1289 ns
+8738272224611056450
+Recursive took 7083 ns
+RECURSIVE is 5.494957 times slower than LOOP
+
+
+Position nr. 356
+4925414085527614861
+Loop took 966 ns
+4925414085527614861
+Recursive took 7102 ns
+RECURSIVE is 7.351967 times slower than LOOP
+
+
+Position nr. 355
+3812858139083441589
+Loop took 879 ns
+3812858139083441589
+Recursive took 7065 ns
+RECURSIVE is 8.037543 times slower than LOOP
+
+
+Position nr. 354
+1112555946444173272
+Loop took 873 ns
+1112555946444173272
+Recursive took 7030 ns
+RECURSIVE is 8.052692 times slower than LOOP
+
+
+Position nr. 353
+2700302192639268317
+Loop took 870 ns
+2700302192639268317
+Recursive took 7017 ns
+RECURSIVE is 8.065517 times slower than LOOP
+
+
+Position nr. 352
+16858997827514456571
+Loop took 899 ns
+16858997827514456571
+Recursive took 7009 ns
+RECURSIVE is 7.796440 times slower than LOOP
+
+
+Position nr. 351
+4288048438834363362
+Loop took 876 ns
+4288048438834363362
+Recursive took 6977 ns
+RECURSIVE is 7.964612 times slower than LOOP
+
+
+Position nr. 350
+12570949388680093209
+Loop took 890 ns
+12570949388680093209
+Recursive took 6939 ns
+RECURSIVE is 7.796629 times slower than LOOP
+
+
+Position nr. 349
+10163843123863821769
+Loop took 886 ns
+10163843123863821769
+Recursive took 6931 ns
+RECURSIVE is 7.822799 times slower than LOOP
+
+
+Position nr. 348
+2407106264816271440
+Loop took 953 ns
+2407106264816271440
+Recursive took 6972 ns
+RECURSIVE is 7.315845 times slower than LOOP
+
+
+Position nr. 347
+7756736859047550329
+Loop took 863 ns
+7756736859047550329
+Recursive took 6893 ns
+RECURSIVE is 7.987254 times slower than LOOP
+
+
+Position nr. 346
+13097113479478272727
+Loop took 875 ns
+13097113479478272727
+Recursive took 6897 ns
+RECURSIVE is 7.882286 times slower than LOOP
+
+
+Position nr. 345
+13106367453278829218
+Loop took 877 ns
+13106367453278829218
+Recursive took 6902 ns
+RECURSIVE is 7.870011 times slower than LOOP
+
+
+Position nr. 344
+18437490099908995125
+Loop took 876 ns
+18437490099908995125
+Recursive took 6843 ns
+RECURSIVE is 7.811644 times slower than LOOP
+
+
+Position nr. 343
+13115621427079385709
+Loop took 961 ns
+13115621427079385709
+Recursive took 6805 ns
+RECURSIVE is 7.081165 times slower than LOOP
+
+
+Position nr. 342
+5321868672829609416
+Loop took 863 ns
+5321868672829609416
+Recursive took 6886 ns
+RECURSIVE is 7.979143 times slower than LOOP
+
+
+Position nr. 341
+7793752754249776293
+Loop took 850 ns
+7793752754249776293
+Recursive took 6787 ns
+RECURSIVE is 7.984706 times slower than LOOP
+
+
+Position nr. 340
+15974859992289384739
+Loop took 869 ns
+15974859992289384739
+Recursive took 6846 ns
+RECURSIVE is 7.878021 times slower than LOOP
+
+
+Position nr. 339
+10265636835669943170
+Loop took 862 ns
+10265636835669943170
+Recursive took 6778 ns
+RECURSIVE is 7.863109 times slower than LOOP
+
+
+Position nr. 338
+5709223156619441569
+Loop took 870 ns
+5709223156619441569
+Recursive took 6708 ns
+RECURSIVE is 7.710345 times slower than LOOP
+
+
+Position nr. 337
+4556413679050501601
+Loop took 845 ns
+4556413679050501601
+Recursive took 6746 ns
+RECURSIVE is 7.983432 times slower than LOOP
+
+
+Position nr. 336
+1152809477568939968
+Loop took 834 ns
+1152809477568939968
+Recursive took 6670 ns
+RECURSIVE is 7.997602 times slower than LOOP
+
+
+Position nr. 335
+3403604201481561633
+Loop took 831 ns
+3403604201481561633
+Recursive took 6640 ns
+RECURSIVE is 7.990373 times slower than LOOP
+
+
+Position nr. 334
+16195949349796929951
+Loop took 852 ns
+16195949349796929951
+Recursive took 6635 ns
+RECURSIVE is 7.787559 times slower than LOOP
+
+
+Position nr. 333
+5654398925394183298
+Loop took 839 ns
+5654398925394183298
+Recursive took 6638 ns
+RECURSIVE is 7.911800 times slower than LOOP
+
+
+Position nr. 332
+10541550424402746653
+Loop took 849 ns
+10541550424402746653
+Recursive took 6585 ns
+RECURSIVE is 7.756184 times slower than LOOP
+
+
+Position nr. 331
+13559592574700988261
+Loop took 848 ns
+13559592574700988261
+Recursive took 6678 ns
+RECURSIVE is 7.875000 times slower than LOOP
+
+
+Position nr. 330
+15428701923411310008
+Loop took 844 ns
+15428701923411310008
+Recursive took 6554 ns
+RECURSIVE is 7.765403 times slower than LOOP
+
+
+Position nr. 329
+16577634724999229869
+Loop took 1311 ns
+16577634724999229869
+Recursive took 6753 ns
+RECURSIVE is 5.151030 times slower than LOOP
+
+
+Position nr. 328
+17297811272121631755
+Loop took 896 ns
+17297811272121631755
+Recursive took 6490 ns
+RECURSIVE is 7.243304 times slower than LOOP
+
+
+Position nr. 327
+17726567526587149730
+Loop took 935 ns
+17726567526587149730
+Recursive took 6566 ns
+RECURSIVE is 7.022460 times slower than LOOP
+
+
+Position nr. 326
+18017987819244033641
+Loop took 852 ns
+18017987819244033641
+Recursive took 7033 ns
+RECURSIVE is 8.254695 times slower than LOOP
+
+
+Position nr. 325
+18155323781052667705
+Loop took 895 ns
+18155323781052667705
+Recursive took 6555 ns
+RECURSIVE is 7.324022 times slower than LOOP
+
+
+Position nr. 324
+18309408111900917552
+Loop took 863 ns
+18309408111900917552
+Recursive took 6420 ns
+RECURSIVE is 7.439166 times slower than LOOP
+
+
+Position nr. 323
+18292659742861301769
+Loop took 872 ns
+18292659742861301769
+Recursive took 6408 ns
+RECURSIVE is 7.348624 times slower than LOOP
+
+
+Position nr. 322
+16748369039615783
+Loop took 901 ns
+16748369039615783
+Recursive took 6397 ns
+RECURSIVE is 7.099889 times slower than LOOP
+
+
+Position nr. 321
+18275911373821685986
+Loop took 808 ns
+18275911373821685986
+Recursive took 6361 ns
+RECURSIVE is 7.872525 times slower than LOOP
+
+
+Position nr. 320
+187581068927481413
+Loop took 868 ns
+187581068927481413
+Recursive took 6343 ns
+RECURSIVE is 7.307604 times slower than LOOP
+
+
+Position nr. 319
+18088330304894204573
+Loop took 873 ns
+18088330304894204573
+Recursive took 6329 ns
+RECURSIVE is 7.249714 times slower than LOOP
+
+
+Position nr. 318
+545994837742828456
+Loop took 820 ns
+545994837742828456
+Recursive took 7322 ns
+RECURSIVE is 8.929268 times slower than LOOP
+
+
+Position nr. 317
+17542335467151376117
+Loop took 749 ns
+17542335467151376117
+Recursive took 5681 ns
+RECURSIVE is 7.584780 times slower than LOOP
+
+
+Position nr. 316
+1450403444301003955
+Loop took 785 ns
+1450403444301003955
+Recursive took 5658 ns
+RECURSIVE is 7.207643 times slower than LOOP
+
+
+Position nr. 315
+16091932022850372162
+Loop took 718 ns
+16091932022850372162
+Recursive took 5656 ns
+RECURSIVE is 7.877437 times slower than LOOP
+
+
+Position nr. 314
+3805215495160183409
+Loop took 734 ns
+3805215495160183409
+Recursive took 5737 ns
+RECURSIVE is 7.816076 times slower than LOOP
+
+
+Position nr. 313
+12286716527690188753
+Loop took 716 ns
+12286716527690188753
+Recursive took 5611 ns
+RECURSIVE is 7.836592 times slower than LOOP
+
+
+Position nr. 312
+9965243041179546272
+Loop took 725 ns
+9965243041179546272
+Recursive took 5583 ns
+RECURSIVE is 7.700690 times slower than LOOP
+
+
+Position nr. 311
+2321473486510642481
+Loop took 724 ns
+2321473486510642481
+Recursive took 5571 ns
+RECURSIVE is 7.694751 times slower than LOOP
+
+
+Position nr. 310
+7643769554668903791
+Loop took 723 ns
+7643769554668903791
+Recursive took 5565 ns
+RECURSIVE is 7.697095 times slower than LOOP
+
+
+Position nr. 309
+13124448005551290306
+Loop took 708 ns
+13124448005551290306
+Recursive took 5544 ns
+RECURSIVE is 7.830508 times slower than LOOP
+
+
+Position nr. 308
+12966065622827165101
+Loop took 708 ns
+12966065622827165101
+Recursive took 5519 ns
+RECURSIVE is 7.795198 times slower than LOOP
+
+
+Position nr. 307
+158382382724125205
+Loop took 716 ns
+158382382724125205
+Recursive took 5489 ns
+RECURSIVE is 7.666201 times slower than LOOP
+
+
+Position nr. 306
+12807683240103039896
+Loop took 732 ns
+12807683240103039896
+Recursive took 5486 ns
+RECURSIVE is 7.494536 times slower than LOOP
+
+
+Position nr. 305
+5797443216330636925
+Loop took 714 ns
+5797443216330636925
+Recursive took 5602 ns
+RECURSIVE is 7.845938 times slower than LOOP
+
+
+Position nr. 304
+7010240023772402971
+Loop took 712 ns
+7010240023772402971
+Recursive took 5565 ns
+RECURSIVE is 7.816011 times slower than LOOP
+
+
+Position nr. 303
+17233947266267785570
+Loop took 696 ns
+17233947266267785570
+Recursive took 5421 ns
+RECURSIVE is 7.788793 times slower than LOOP
+
+
+Position nr. 302
+8223036831214169017
+Loop took 831 ns
+8223036831214169017
+Recursive took 5436 ns
+RECURSIVE is 6.541516 times slower than LOOP
+
+
+Position nr. 301
+9010910435053616553
+Loop took 1005 ns
+9010910435053616553
+Recursive took 5644 ns
+RECURSIVE is 5.615920 times slower than LOOP
+
+
+Position nr. 300
+17658870469870104080
+Loop took 788 ns
+17658870469870104080
+Recursive took 5437 ns
+RECURSIVE is 6.899746 times slower than LOOP
+
+
+Position nr. 299
+9798784038893064089
+Loop took 704 ns
+9798784038893064089
+Recursive took 5403 ns
+RECURSIVE is 7.674716 times slower than LOOP
+
+
+Position nr. 298
+7860086430977039991
+Loop took 686 ns
+7860086430977039991
+Recursive took 5461 ns
+RECURSIVE is 7.960641 times slower than LOOP
+
+
+Position nr. 297
+1938697607916024098
+Loop took 686 ns
+1938697607916024098
+Recursive took 5406 ns
+RECURSIVE is 7.880466 times slower than LOOP
+
+
+Position nr. 296
+5921388823061015893
+Loop took 686 ns
+5921388823061015893
+Recursive took 5306 ns
+RECURSIVE is 7.734694 times slower than LOOP
+
+
+Position nr. 295
+14464052858564559821
+Loop took 1475 ns
+14464052858564559821
+Recursive took 5310 ns
+RECURSIVE is 3.600000 times slower than LOOP
+
+
+Position nr. 294
+9904080038206007688
+Loop took 679 ns
+9904080038206007688
+Recursive took 5256 ns
+RECURSIVE is 7.740795 times slower than LOOP
+
+
+Position nr. 293
+4559972820358552133
+Loop took 675 ns
+4559972820358552133
+Recursive took 5248 ns
+RECURSIVE is 7.774815 times slower than LOOP
+
+
+Position nr. 292
+5344107217847455555
+Loop took 716 ns
+5344107217847455555
+Recursive took 5243 ns
+RECURSIVE is 7.322626 times slower than LOOP
+
+
+Position nr. 291
+17662609676220648194
+Loop took 691 ns
+17662609676220648194
+Recursive took 5212 ns
+RECURSIVE is 7.542692 times slower than LOOP
+
+
+Position nr. 290
+6128241615336358977
+Loop took 673 ns
+6128241615336358977
+Recursive took 5186 ns
+RECURSIVE is 7.705795 times slower than LOOP
+
+
+Position nr. 289
+11534368060884289217
+Loop took 688 ns
+11534368060884289217
+Recursive took 5166 ns
+RECURSIVE is 7.508721 times slower than LOOP
+
+
+Position nr. 288
+13040617628161621376
+Loop took 684 ns
+13040617628161621376
+Recursive took 5161 ns
+RECURSIVE is 7.545322 times slower than LOOP
+
+
+Position nr. 287
+16940494506432219457
+Loop took 685 ns
+16940494506432219457
+Recursive took 5183 ns
+RECURSIVE is 7.566423 times slower than LOOP
+
+
+Position nr. 286
+14546867195438953535
+Loop took 767 ns
+14546867195438953535
+Recursive took 5216 ns
+RECURSIVE is 6.800522 times slower than LOOP
+
+
+Position nr. 285
+2393627310993265922
+Loop took 663 ns
+2393627310993265922
+Recursive took 5091 ns
+RECURSIVE is 7.678733 times slower than LOOP
+
+
+Position nr. 284
+12153239884445687613
+Loop took 677 ns
+12153239884445687613
+Recursive took 5225 ns
+RECURSIVE is 7.717873 times slower than LOOP
+
+
+Position nr. 283
+8687131500257129925
+Loop took 659 ns
+8687131500257129925
+Recursive took 5071 ns
+RECURSIVE is 7.694992 times slower than LOOP
+
+
+Position nr. 282
+3466108384188557688
+Loop took 660 ns
+3466108384188557688
+Recursive took 5051 ns
+RECURSIVE is 7.653030 times slower than LOOP
+
+
+Position nr. 281
+5221023116068572237
+Loop took 1220 ns
+5221023116068572237
+Recursive took 4802 ns
+RECURSIVE is 3.936066 times slower than LOOP
+
+
+Position nr. 280
+16691829341829537067
+Loop took 640 ns
+16691829341829537067
+Recursive took 4885 ns
+RECURSIVE is 7.632812 times slower than LOOP
+
+
+Position nr. 279
+6975937847948586786
+Loop took 621 ns
+6975937847948586786
+Recursive took 4882 ns
+RECURSIVE is 7.861514 times slower than LOOP
+
+
+Position nr. 278
+9715891493880950281
+Loop took 618 ns
+9715891493880950281
+Recursive took 4869 ns
+RECURSIVE is 7.878641 times slower than LOOP
+
+
+Position nr. 277
+15706790427777188121
+Loop took 636 ns
+15706790427777188121
+Recursive took 4735 ns
+RECURSIVE is 7.444969 times slower than LOOP
+
+
+Position nr. 276
+12455845139813313776
+Loop took 636 ns
+12455845139813313776
+Recursive took 4709 ns
+RECURSIVE is 7.404088 times slower than LOOP
+
+
+Position nr. 275
+3250945287963874345
+Loop took 640 ns
+3250945287963874345
+Recursive took 4801 ns
+RECURSIVE is 7.501563 times slower than LOOP
+
+
+Position nr. 274
+9204899851849439431
+Loop took 628 ns
+9204899851849439431
+Recursive took 4668 ns
+RECURSIVE is 7.433121 times slower than LOOP
+
+
+Position nr. 273
+12492789509823986530
+Loop took 1005 ns
+12492789509823986530
+Recursive took 4919 ns
+RECURSIVE is 4.894527 times slower than LOOP
+
+
+Position nr. 272
+15158854415735004517
+Loop took 666 ns
+15158854415735004517
+Recursive took 4652 ns
+RECURSIVE is 6.984985 times slower than LOOP
+
+
+Position nr. 271
+15780679167798533629
+Loop took 725 ns
+15780679167798533629
+Recursive took 4646 ns
+RECURSIVE is 6.408276 times slower than LOOP
+
+
+Position nr. 270
+17824919321646022504
+Loop took 629 ns
+17824919321646022504
+Recursive took 4664 ns
+RECURSIVE is 7.414944 times slower than LOOP
+
+
+Position nr. 269
+16402503919862062741
+Loop took 659 ns
+16402503919862062741
+Recursive took 4655 ns
+RECURSIVE is 7.063733 times slower than LOOP
+
+
+Position nr. 268
+1422415401783959763
+Loop took 643 ns
+1422415401783959763
+Recursive took 4615 ns
+RECURSIVE is 7.177294 times slower than LOOP
+
+
+Position nr. 267
+14980088518078102978
+Loop took 670 ns
+14980088518078102978
+Recursive took 4604 ns
+RECURSIVE is 6.871642 times slower than LOOP
+
+
+Position nr. 266
+4889070957415408401
+Loop took 648 ns
+4889070957415408401
+Recursive took 4585 ns
+RECURSIVE is 7.075617 times slower than LOOP
+
+
+Position nr. 265
+10091017560662694577
+Loop took 595 ns
+10091017560662694577
+Recursive took 4676 ns
+RECURSIVE is 7.858824 times slower than LOOP
+
+
+Position nr. 264
+13244797470462265440
+Loop took 649 ns
+13244797470462265440
+Recursive took 4575 ns
+RECURSIVE is 7.049307 times slower than LOOP
+
+
+Position nr. 263
+15292964163909980753
+Loop took 591 ns
+15292964163909980753
+Recursive took 4562 ns
+RECURSIVE is 7.719120 times slower than LOOP
+
+
+Position nr. 262
+16398577380261836303
+Loop took 591 ns
+16398577380261836303
+Recursive took 4541 ns
+RECURSIVE is 7.683587 times slower than LOOP
+
+
+Position nr. 261
+17341130857357696066
+Loop took 598 ns
+17341130857357696066
+Recursive took 4508 ns
+RECURSIVE is 7.538462 times slower than LOOP
+
+
+Position nr. 260
+17504190596613691853
+Loop took 585 ns
+17504190596613691853
+Recursive took 4490 ns
+RECURSIVE is 7.675214 times slower than LOOP
+
+
+Position nr. 259
+18283684334453555829
+Loop took 585 ns
+18283684334453555829
+Recursive took 4452 ns
+RECURSIVE is 7.610256 times slower than LOOP
+
+
+Position nr. 258
+17667250335869687640
+Loop took 590 ns
+17667250335869687640
+Recursive took 4446 ns
+RECURSIVE is 7.535593 times slower than LOOP
+
+
+Position nr. 257
+616433998583868189
+Loop took 593 ns
+616433998583868189
+Recursive took 4434 ns
+RECURSIVE is 7.477234 times slower than LOOP
+
+
+Position nr. 256
+17050816337285819451
+Loop took 578 ns
+17050816337285819451
+Recursive took 4384 ns
+RECURSIVE is 7.584775 times slower than LOOP
+
+
+Position nr. 255
+2012361735007600354
+Loop took 589 ns
+2012361735007600354
+Recursive took 4371 ns
+RECURSIVE is 7.421053 times slower than LOOP
+
+
+Position nr. 254
+15038454602278219097
+Loop took 572 ns
+15038454602278219097
+Recursive took 4365 ns
+RECURSIVE is 7.631119 times slower than LOOP
+
+
+Position nr. 253
+5420651206438932873
+Loop took 587 ns
+5420651206438932873
+Recursive took 4384 ns
+RECURSIVE is 7.468484 times slower than LOOP
+
+
+Position nr. 252
+9617803395839286224
+Loop took 585 ns
+9617803395839286224
+Recursive took 4335 ns
+RECURSIVE is 7.410256 times slower than LOOP
+
+
+Position nr. 251
+14249591884309198265
+Loop took 569 ns
+14249591884309198265
+Recursive took 4383 ns
+RECURSIVE is 7.702988 times slower than LOOP
+
+
+Position nr. 250
+13814955585239639575
+Loop took 566 ns
+13814955585239639575
+Recursive took 4299 ns
+RECURSIVE is 7.595406 times slower than LOOP
+
+
+Position nr. 249
+434636299069558690
+Loop took 576 ns
+434636299069558690
+Recursive took 4293 ns
+RECURSIVE is 7.453125 times slower than LOOP
+
+
+Position nr. 248
+13380319286170080885
+Loop took 560 ns
+13380319286170080885
+Recursive took 4256 ns
+RECURSIVE is 7.600000 times slower than LOOP
+
+
+Position nr. 247
+5501061086609029421
+Loop took 576 ns
+5501061086609029421
+Recursive took 4223 ns
+RECURSIVE is 7.331597 times slower than LOOP
+
+
+Position nr. 246
+7879258199561051464
+Loop took 578 ns
+7879258199561051464
+Recursive took 4221 ns
+RECURSIVE is 7.302768 times slower than LOOP
+
+
+Position nr. 245
+16068546960757529573
+Loop took 560 ns
+16068546960757529573
+Recursive took 4617 ns
+RECURSIVE is 8.244643 times slower than LOOP
+
+
+Position nr. 244
+10257455312513073507
+Loop took 907 ns
+10257455312513073507
+Recursive took 4262 ns
+RECURSIVE is 4.699008 times slower than LOOP
+
+
+Position nr. 243
+5811091648244456066
+Loop took 579 ns
+5811091648244456066
+Recursive took 4134 ns
+RECURSIVE is 7.139896 times slower than LOOP
+
+
+Position nr. 242
+4446363664268617441
+Loop took 598 ns
+4446363664268617441
+Recursive took 4216 ns
+RECURSIVE is 7.050167 times slower than LOOP
+
+
+Position nr. 241
+1364727983975838625
+Loop took 597 ns
+1364727983975838625
+Recursive took 4112 ns
+RECURSIVE is 6.887772 times slower than LOOP
+
+
+Position nr. 240
+3081635680292778816
+Loop took 647 ns
+3081635680292778816
+Recursive took 4085 ns
+RECURSIVE is 6.313756 times slower than LOOP
+
+
+Position nr. 239
+16729836377392611425
+Loop took 595 ns
+16729836377392611425
+Recursive took 4068 ns
+RECURSIVE is 6.836975 times slower than LOOP
+
+
+Position nr. 238
+4798543376609719007
+Loop took 620 ns
+4798543376609719007
+Recursive took 4047 ns
+RECURSIVE is 6.527419 times slower than LOOP
+
+
+Position nr. 237
+11931293000782892418
+Loop took 559 ns
+11931293000782892418
+Recursive took 5022 ns
+RECURSIVE is 8.983900 times slower than LOOP
+
+
+Position nr. 236
+11313994449536378205
+Loop took 534 ns
+11313994449536378205
+Recursive took 3863 ns
+RECURSIVE is 7.234082 times slower than LOOP
+
+
+Position nr. 235
+617298551246514213
+Loop took 529 ns
+617298551246514213
+Recursive took 3874 ns
+RECURSIVE is 7.323251 times slower than LOOP
+
+
+Position nr. 234
+10696695898289863992
+Loop took 532 ns
+10696695898289863992
+Recursive took 3819 ns
+RECURSIVE is 7.178571 times slower than LOOP
+
+
+Position nr. 233
+8367346726666201837
+Loop took 562 ns
+8367346726666201837
+Recursive took 3843 ns
+RECURSIVE is 6.838078 times slower than LOOP
+
+
+Position nr. 232
+2329349171623662155
+Loop took 508 ns
+2329349171623662155
+Recursive took 3860 ns
+RECURSIVE is 7.598425 times slower than LOOP
+
+
+Position nr. 231
+6037997555042539682
+Loop took 518 ns
+6037997555042539682
+Recursive took 3756 ns
+RECURSIVE is 7.250965 times slower than LOOP
+
+
+Position nr. 230
+14738095690290674089
+Loop took 522 ns
+14738095690290674089
+Recursive took 3746 ns
+RECURSIVE is 7.176245 times slower than LOOP
+
+
+Position nr. 229
+9746645938461417209
+Loop took 526 ns
+9746645938461417209
+Recursive took 3734 ns
+RECURSIVE is 7.098859 times slower than LOOP
+
+
+Position nr. 228
+4991449751829256880
+Loop took 520 ns
+4991449751829256880
+Recursive took 3716 ns
+RECURSIVE is 7.146154 times slower than LOOP
+
+
+Position nr. 227
+4755196186632160329
+Loop took 517 ns
+4755196186632160329
+Recursive took 3695 ns
+RECURSIVE is 7.147002 times slower than LOOP
+
+
+Position nr. 226
+236253565197096551
+Loop took 513 ns
+236253565197096551
+Recursive took 3676 ns
+RECURSIVE is 7.165692 times slower than LOOP
+
+
+Position nr. 225
+4518942621435063778
+Loop took 497 ns
+4518942621435063778
+Recursive took 3658 ns
+RECURSIVE is 7.360161 times slower than LOOP
+
+
+Position nr. 224
+14164055017471584389
+Loop took 518 ns
+14164055017471584389
+Recursive took 3680 ns
+RECURSIVE is 7.104247 times slower than LOOP
+
+
+Position nr. 223
+8801631677673031005
+Loop took 496 ns
+8801631677673031005
+Recursive took 3632 ns
+RECURSIVE is 7.322581 times slower than LOOP
+
+
+Position nr. 222
+5362423339798553384
+Loop took 497 ns
+5362423339798553384
+Recursive took 3616 ns
+RECURSIVE is 7.275654 times slower than LOOP
+
+
+Position nr. 221
+3439208337874477621
+Loop took 534 ns
+3439208337874477621
+Recursive took 3597 ns
+RECURSIVE is 6.735955 times slower than LOOP
+
+
+Position nr. 220
+1923215001924075763
+Loop took 552 ns
+1923215001924075763
+Recursive took 3578 ns
+RECURSIVE is 6.481884 times slower than LOOP
+
+
+Position nr. 219
+1515993335950401858
+Loop took 487 ns
+1515993335950401858
+Recursive took 3555 ns
+RECURSIVE is 7.299795 times slower than LOOP
+
+
+Position nr. 218
+407221665973673905
+Loop took 500 ns
+407221665973673905
+Recursive took 3540 ns
+RECURSIVE is 7.080000 times slower than LOOP
+
+
+Position nr. 217
+1108771669976727953
+Loop took 484 ns
+1108771669976727953
+Recursive took 3677 ns
+RECURSIVE is 7.597107 times slower than LOOP
+
+
+Position nr. 216
+17745194069706497568
+Loop took 904 ns
+17745194069706497568
+Recursive took 3878 ns
+RECURSIVE is 4.289823 times slower than LOOP
+
+
+Position nr. 215
+1810321673979782001
+Loop took 528 ns
+1810321673979782001
+Recursive took 3619 ns
+RECURSIVE is 6.854167 times slower than LOOP
+
+
+Position nr. 214
+15934872395726715567
+Loop took 521 ns
+15934872395726715567
+Recursive took 3536 ns
+RECURSIVE is 6.786948 times slower than LOOP
+
+
+Position nr. 213
+4322193351962618050
+Loop took 516 ns
+4322193351962618050
+Recursive took 3452 ns
+RECURSIVE is 6.689922 times slower than LOOP
+
+
+Position nr. 212
+11612679043764097517
+Loop took 542 ns
+11612679043764097517
+Recursive took 3438 ns
+RECURSIVE is 6.343173 times slower than LOOP
+
+
+Position nr. 211
+11156258381908072149
+Loop took 493 ns
+11156258381908072149
+Recursive took 3432 ns
+RECURSIVE is 6.961460 times slower than LOOP
+
+
+Position nr. 210
+456420661856025368
+Loop took 495 ns
+456420661856025368
+Recursive took 3489 ns
+RECURSIVE is 7.048485 times slower than LOOP
+
+
+Position nr. 209
+10699837720052046781
+Loop took 539 ns
+10699837720052046781
+Recursive took 3416 ns
+RECURSIVE is 6.337662 times slower than LOOP
+
+
+Position nr. 208
+8203327015513530203
+Loop took 485 ns
+8203327015513530203
+Recursive took 3376 ns
+RECURSIVE is 6.960825 times slower than LOOP
+
+
+Position nr. 207
+2496510704538516578
+Loop took 467 ns
+2496510704538516578
+Recursive took 3356 ns
+RECURSIVE is 7.186296 times slower than LOOP
+
+
+Position nr. 206
+5706816310975013625
+Loop took 464 ns
+5706816310975013625
+Recursive took 3334 ns
+RECURSIVE is 7.185345 times slower than LOOP
+
+
+Position nr. 205
+15236438467273054569
+Loop took 483 ns
+15236438467273054569
+Recursive took 3325 ns
+RECURSIVE is 6.884058 times slower than LOOP
+
+
+Position nr. 204
+8917121917411510672
+Loop took 460 ns
+8917121917411510672
+Recursive took 3307 ns
+RECURSIVE is 7.189130 times slower than LOOP
+
+
+Position nr. 203
+6319316549861543897
+Loop took 463 ns
+6319316549861543897
+Recursive took 3299 ns
+RECURSIVE is 7.125270 times slower than LOOP
+
+
+Position nr. 202
+2597805367549966775
+Loop took 460 ns
+2597805367549966775
+Recursive took 3296 ns
+RECURSIVE is 7.165217 times slower than LOOP
+
+
+Position nr. 201
+3721511182311577122
+Loop took 459 ns
+3721511182311577122
+Recursive took 3264 ns
+RECURSIVE is 7.111111 times slower than LOOP
+
+
+Position nr. 200
+17323038258947941269
+Loop took 471 ns
+17323038258947941269
+Recursive took 3238 ns
+RECURSIVE is 6.874735 times slower than LOOP
+
+
+Position nr. 199
+4845216997073187469
+Loop took 460 ns
+4845216997073187469
+Recursive took 3219 ns
+RECURSIVE is 6.997826 times slower than LOOP
+
+
+Position nr. 198
+12477821261874753800
+Loop took 468 ns
+12477821261874753800
+Recursive took 3207 ns
+RECURSIVE is 6.852564 times slower than LOOP
+
+
+Position nr. 197
+10814139808907985285
+Loop took 470 ns
+10814139808907985285
+Recursive took 3190 ns
+RECURSIVE is 6.787234 times slower than LOOP
+
+
+Position nr. 196
+1663681452966768515
+Loop took 449 ns
+1663681452966768515
+Recursive took 3299 ns
+RECURSIVE is 7.347439 times slower than LOOP
+
+
+Position nr. 195
+9150458355941216770
+Loop took 449 ns
+9150458355941216770
+Recursive took 3184 ns
+RECURSIVE is 7.091314 times slower than LOOP
+
+
+Position nr. 194
+10959967170735103361
+Loop took 463 ns
+10959967170735103361
+Recursive took 3216 ns
+RECURSIVE is 6.946004 times slower than LOOP
+
+
+Position nr. 193
+16637235258915665025
+Loop took 463 ns
+16637235258915665025
+Recursive took 3124 ns
+RECURSIVE is 6.747300 times slower than LOOP
+
+
+Position nr. 192
+12769475985528989952
+Loop took 459 ns
+12769475985528989952
+Recursive took 3104 ns
+RECURSIVE is 6.762527 times slower than LOOP
+
+
+Position nr. 191
+3867759273386675073
+Loop took 441 ns
+3867759273386675073
+Recursive took 3085 ns
+RECURSIVE is 6.995465 times slower than LOOP
+
+
+Position nr. 190
+8901716712142314879
+Loop took 439 ns
+8901716712142314879
+Recursive took 3214 ns
+RECURSIVE is 7.321185 times slower than LOOP
+
+
+Position nr. 189
+13412786634953911810
+Loop took 456 ns
+13412786634953911810
+Recursive took 3099 ns
+RECURSIVE is 6.796053 times slower than LOOP
+
+
+Position nr. 188
+13935674150897954685
+Loop took 749 ns
+13935674150897954685
+Recursive took 3221 ns
+RECURSIVE is 4.300401 times slower than LOOP
+
+
+Position nr. 187
+17923856557765508741
+Loop took 506 ns
+17923856557765508741
+Recursive took 3053 ns
+RECURSIVE is 6.033597 times slower than LOOP
+
+
+Position nr. 186
+14458561666841997560
+Loop took 478 ns
+14458561666841997560
+Recursive took 3003 ns
+RECURSIVE is 6.282427 times slower than LOOP
+
+
+Position nr. 185
+3465294890923511181
+Loop took 476 ns
+3465294890923511181
+Recursive took 2982 ns
+RECURSIVE is 6.264706 times slower than LOOP
+
+
+Position nr. 184
+10993266775918486379
+Loop took 501 ns
+10993266775918486379
+Recursive took 2973 ns
+RECURSIVE is 5.934132 times slower than LOOP
+
+
+Position nr. 183
+10918772188714576418
+Loop took 475 ns
+10918772188714576418
+Recursive took 2961 ns
+RECURSIVE is 6.233684 times slower than LOOP
+
+
+Position nr. 182
+74494587203909961
+Loop took 500 ns
+74494587203909961
+Recursive took 2942 ns
+RECURSIVE is 5.884000 times slower than LOOP
+
+
+Position nr. 181
+10844277601510666457
+Loop took 460 ns
+10844277601510666457
+Recursive took 2931 ns
+RECURSIVE is 6.371739 times slower than LOOP
+
+
+Position nr. 180
+7676961059402795120
+Loop took 462 ns
+7676961059402795120
+Recursive took 3080 ns
+RECURSIVE is 6.666667 times slower than LOOP
+
+
+Position nr. 179
+3167316542107871337
+Loop took 418 ns
+3167316542107871337
+Recursive took 3027 ns
+RECURSIVE is 7.241627 times slower than LOOP
+
+
+Position nr. 178
+4509644517294923783
+Loop took 419 ns
+4509644517294923783
+Recursive took 2870 ns
+RECURSIVE is 6.849642 times slower than LOOP
+
+
+Position nr. 177
+17104416098522499170
+Loop took 431 ns
+17104416098522499170
+Recursive took 2852 ns
+RECURSIVE is 6.617169 times slower than LOOP
+
+
+Position nr. 176
+5851972492481976229
+Loop took 412 ns
+5851972492481976229
+Recursive took 2838 ns
+RECURSIVE is 6.888350 times slower than LOOP
+
+
+Position nr. 175
+11252443606040522941
+Loop took 427 ns
+11252443606040522941
+Recursive took 2822 ns
+RECURSIVE is 6.608899 times slower than LOOP
+
+
+Position nr. 174
+13046272960151004904
+Loop took 427 ns
+13046272960151004904
+Recursive took 2810 ns
+RECURSIVE is 6.580796 times slower than LOOP
+
+
+Position nr. 173
+16652914719599069653
+Loop took 454 ns
+16652914719599069653
+Recursive took 2795 ns
+RECURSIVE is 6.156388 times slower than LOOP
+
+
+Position nr. 172
+14840102314261486867
+Loop took 424 ns
+14840102314261486867
+Recursive took 2781 ns
+RECURSIVE is 6.558962 times slower than LOOP
+
+
+Position nr. 171
+1812812405337582786
+Loop took 405 ns
+1812812405337582786
+Recursive took 2755 ns
+RECURSIVE is 6.802469 times slower than LOOP
+
+
+Position nr. 170
+13027289908923904081
+Loop took 419 ns
+13027289908923904081
+Recursive took 2736 ns
+RECURSIVE is 6.529833 times slower than LOOP
+
+
+Position nr. 169
+7232266570123230321
+Loop took 401 ns
+7232266570123230321
+Recursive took 2721 ns
+RECURSIVE is 6.785536 times slower than LOOP
+
+
+Position nr. 168
+5795023338800673760
+Loop took 398 ns
+5795023338800673760
+Recursive took 2813 ns
+RECURSIVE is 7.067839 times slower than LOOP
+
+
+Position nr. 167
+1437243231322556561
+Loop took 401 ns
+1437243231322556561
+Recursive took 2708 ns
+RECURSIVE is 6.753117 times slower than LOOP
+
+
+Position nr. 166
+4357780107478117199
+Loop took 398 ns
+4357780107478117199
+Recursive took 2674 ns
+RECURSIVE is 6.718593 times slower than LOOP
+
+
+Position nr. 165
+15526207197553990978
+Loop took 412 ns
+15526207197553990978
+Recursive took 2660 ns
+RECURSIVE is 6.456311 times slower than LOOP
+
+
+Position nr. 164
+7278316983633677837
+Loop took 393 ns
+7278316983633677837
+Recursive took 2644 ns
+RECURSIVE is 6.727735 times slower than LOOP
+
+
+Position nr. 163
+8247890213920313141
+Loop took 391 ns
+8247890213920313141
+Recursive took 2623 ns
+RECURSIVE is 6.708440 times slower than LOOP
+
+
+Position nr. 162
+17477170843422916312
+Loop took 406 ns
+17477170843422916312
+Recursive took 2604 ns
+RECURSIVE is 6.413793 times slower than LOOP
+
+
+Position nr. 161
+9217463444206948445
+Loop took 388 ns
+9217463444206948445
+Recursive took 2584 ns
+RECURSIVE is 6.659794 times slower than LOOP
+
+
+Position nr. 160
+8259707399215967867
+Loop took 3628 ns
+8259707399215967867
+Recursive took 2732 ns
+RECURSIVE is 1.327965 times faster than LOOP
+
+
+Position nr. 159
+957756044990980578
+Loop took 708 ns
+957756044990980578
+Recursive took 2553 ns
+RECURSIVE is 3.605932 times slower than LOOP
+
+
+Position nr. 158
+7301951354224987289
+Loop took 435 ns
+7301951354224987289
+Recursive took 2535 ns
+RECURSIVE is 5.827586 times slower than LOOP
+
+
+Position nr. 157
+12102548764475544905
+Loop took 442 ns
+12102548764475544905
+Recursive took 2529 ns
+RECURSIVE is 5.721719 times slower than LOOP
+
+
+Position nr. 156
+13646146663458994000
+Loop took 422 ns
+13646146663458994000
+Recursive took 2509 ns
+RECURSIVE is 5.945498 times slower than LOOP
+
+
+Position nr. 155
+16903146174726102521
+Loop took 391 ns
+16903146174726102521
+Recursive took 2487 ns
+RECURSIVE is 6.360614 times slower than LOOP
+
+
+Position nr. 154
+15189744562442443095
+Loop took 404 ns
+15189744562442443095
+Recursive took 2472 ns
+RECURSIVE is 6.118812 times slower than LOOP
+
+
+Position nr. 153
+1713401612283659426
+Loop took 388 ns
+1713401612283659426
+Recursive took 2455 ns
+RECURSIVE is 6.327320 times slower than LOOP
+
+
+Position nr. 152
+13476342950158783669
+Loop took 385 ns
+13476342950158783669
+Recursive took 2432 ns
+RECURSIVE is 6.316883 times slower than LOOP
+
+
+Position nr. 151
+6683802735834427373
+Loop took 395 ns
+6683802735834427373
+Recursive took 2419 ns
+RECURSIVE is 6.124051 times slower than LOOP
+
+
+Position nr. 150
+6792540214324356296
+Loop took 380 ns
+6792540214324356296
+Recursive took 2402 ns
+RECURSIVE is 6.321053 times slower than LOOP
+
+
+Position nr. 149
+18338006595219622693
+Loop took 384 ns
+18338006595219622693
+Recursive took 2390 ns
+RECURSIVE is 6.223958 times slower than LOOP
+
+
+Position nr. 148
+6901277692814285219
+Loop took 377 ns
+6901277692814285219
+Recursive took 2400 ns
+RECURSIVE is 6.366048 times slower than LOOP
+
+
+Position nr. 147
+11436728902405337474
+Loop took 378 ns
+11436728902405337474
+Recursive took 2473 ns
+RECURSIVE is 6.542328 times slower than LOOP
+
+
+Position nr. 146
+13911292864118499361
+Loop took 361 ns
+13911292864118499361
+Recursive took 2339 ns
+RECURSIVE is 6.479224 times slower than LOOP
+
+
+Position nr. 145
+15972180111996389729
+Loop took 361 ns
+15972180111996389729
+Recursive took 2321 ns
+RECURSIVE is 6.429363 times slower than LOOP
+
+
+Position nr. 144
+16385856825831661248
+Loop took 359 ns
+16385856825831661248
+Recursive took 2301 ns
+RECURSIVE is 6.409471 times slower than LOOP
+
+
+Position nr. 143
+18033067359874280097
+Loop took 357 ns
+18033067359874280097
+Recursive took 2281 ns
+RECURSIVE is 6.389356 times slower than LOOP
+
+
+Position nr. 142
+16799533539666932767
+Loop took 354 ns
+16799533539666932767
+Recursive took 2264 ns
+RECURSIVE is 6.395480 times slower than LOOP
+
+
+Position nr. 141
+1233533820207347330
+Loop took 368 ns
+1233533820207347330
+Recursive took 2252 ns
+RECURSIVE is 6.119565 times slower than LOOP
+
+
+Position nr. 140
+15565999719459585437
+Loop took 351 ns
+15565999719459585437
+Recursive took 2235 ns
+RECURSIVE is 6.367521 times slower than LOOP
+
+
+Position nr. 139
+4114278174457313509
+Loop took 364 ns
+4114278174457313509
+Recursive took 2221 ns
+RECURSIVE is 6.101648 times slower than LOOP
+
+
+Position nr. 138
+11451721545002271928
+Loop took 349 ns
+11451721545002271928
+Recursive took 2206 ns
+RECURSIVE is 6.320917 times slower than LOOP
+
+
+Position nr. 137
+11109300703164593197
+Loop took 388 ns
+11109300703164593197
+Recursive took 2190 ns
+RECURSIVE is 5.644330 times slower than LOOP
+
+
+Position nr. 136
+342420841837678731
+Loop took 358 ns
+342420841837678731
+Recursive took 2171 ns
+RECURSIVE is 6.064246 times slower than LOOP
+
+
+Position nr. 135
+10766879861326914466
+Loop took 370 ns
+10766879861326914466
+Recursive took 2155 ns
+RECURSIVE is 5.824324 times slower than LOOP
+
+
+Position nr. 134
+8022285054220315881
+Loop took 353 ns
+8022285054220315881
+Recursive took 2132 ns
+RECURSIVE is 6.039660 times slower than LOOP
+
+
+Position nr. 133
+2744594807106598585
+Loop took 355 ns
+2744594807106598585
+Recursive took 2116 ns
+RECURSIVE is 5.960563 times slower than LOOP
+
+
+Position nr. 132
+5277690247113717296
+Loop took 349 ns
+5277690247113717296
+Recursive took 2103 ns
+RECURSIVE is 6.025788 times slower than LOOP
+
+
+Position nr. 131
+15913648633702432905
+Loop took 776 ns
+15913648633702432905
+Recursive took 2273 ns
+RECURSIVE is 2.929124 times slower than LOOP
+
+
+Position nr. 130
+7810785687120836007
+Loop took 398 ns
+7810785687120836007
+Recursive took 2066 ns
+RECURSIVE is 5.190955 times slower than LOOP
+
+
+Position nr. 129
+8102862946581596898
+Loop took 364 ns
+8102862946581596898
+Recursive took 2114 ns
+RECURSIVE is 5.807692 times slower than LOOP
+
+
+Position nr. 128
+18154666814248790725
+Loop took 386 ns
+18154666814248790725
+Recursive took 2094 ns
+RECURSIVE is 5.424870 times slower than LOOP
+
+
+Position nr. 127
+8394940206042357789
+Loop took 359 ns
+8394940206042357789
+Recursive took 2027 ns
+RECURSIVE is 5.646240 times slower than LOOP
+
+
+Position nr. 126
+9759726608206432936
+Loop took 323 ns
+9759726608206432936
+Recursive took 2012 ns
+RECURSIVE is 6.229102 times slower than LOOP
+
+
+Position nr. 125
+17081957671545476469
+Loop took 335 ns
+17081957671545476469
+Recursive took 2156 ns
+RECURSIVE is 6.435821 times slower than LOOP
+
+
+Position nr. 124
+11124513010370508083
+Loop took 337 ns
+11124513010370508083
+Recursive took 1991 ns
+RECURSIVE is 5.908012 times slower than LOOP
+
+
+Position nr. 123
+5957444661174968386
+Loop took 333 ns
+5957444661174968386
+Recursive took 1964 ns
+RECURSIVE is 5.897898 times slower than LOOP
+
+
+Position nr. 122
+5167068349195539697
+Loop took 314 ns
+5167068349195539697
+Recursive took 2008 ns
+RECURSIVE is 6.394904 times slower than LOOP
+
+
+Position nr. 121
+790376311979428689
+Loop took 330 ns
+790376311979428689
+Recursive took 2103 ns
+RECURSIVE is 6.372727 times slower than LOOP
+
+
+Position nr. 120
+4376692037216111008
+Loop took 316 ns
+4376692037216111008
+Recursive took 1958 ns
+RECURSIVE is 6.196203 times slower than LOOP
+
+
+Position nr. 119
+14860428348472869297
+Loop took 328 ns
+14860428348472869297
+Recursive took 1897 ns
+RECURSIVE is 5.783537 times slower than LOOP
+
+
+Position nr. 118
+7963007762452793327
+Loop took 310 ns
+7963007762452793327
+Recursive took 1882 ns
+RECURSIVE is 6.070968 times slower than LOOP
+
+
+Position nr. 117
+6897420586020075970
+Loop took 308 ns
+6897420586020075970
+Recursive took 1861 ns
+RECURSIVE is 6.042208 times slower than LOOP
+
+
+Position nr. 116
+1065587176432717357
+Loop took 304 ns
+1065587176432717357
+Recursive took 1845 ns
+RECURSIVE is 6.069079 times slower than LOOP
+
+
+Position nr. 115
+5831833409587358613
+Loop took 307 ns
+5831833409587358613
+Recursive took 1828 ns
+RECURSIVE is 5.954397 times slower than LOOP
+
+
+Position nr. 114
+13680497840554910360
+Loop took 318 ns
+13680497840554910360
+Recursive took 1810 ns
+RECURSIVE is 5.691824 times slower than LOOP
+
+
+Position nr. 113
+10598079642741999869
+Loop took 318 ns
+10598079642741999869
+Recursive took 1793 ns
+RECURSIVE is 5.638365 times slower than LOOP
+
+
+Position nr. 112
+3082418197812910491
+Loop took 338 ns
+3082418197812910491
+Recursive took 1772 ns
+RECURSIVE is 5.242604 times slower than LOOP
+
+
+Position nr. 111
+7515661444929089378
+Loop took 298 ns
+7515661444929089378
+Recursive took 1757 ns
+RECURSIVE is 5.895973 times slower than LOOP
+
+
+Position nr. 110
+14013500826593372729
+Loop took 313 ns
+14013500826593372729
+Recursive took 1744 ns
+RECURSIVE is 5.571885 times slower than LOOP
+
+
+Position nr. 109
+11948904692045268265
+Loop took 308 ns
+11948904692045268265
+Recursive took 1727 ns
+RECURSIVE is 5.607143 times slower than LOOP
+
+
+Position nr. 108
+2064596134548104464
+Loop took 291 ns
+2064596134548104464
+Recursive took 1712 ns
+RECURSIVE is 5.883162 times slower than LOOP
+
+
+Position nr. 107
+9884308557497163801
+Loop took 291 ns
+9884308557497163801
+Recursive took 1697 ns
+RECURSIVE is 5.831615 times slower than LOOP
+
+
+Position nr. 106
+10627031650760492279
+Loop took 304 ns
+10627031650760492279
+Recursive took 1748 ns
+RECURSIVE is 5.750000 times slower than LOOP
+
+
+Position nr. 105
+17704020980446223138
+Loop took 343 ns
+17704020980446223138
+Recursive took 1702 ns
+RECURSIVE is 4.962099 times slower than LOOP
+
+
+Position nr. 104
+11369754744023820757
+Loop took 345 ns
+11369754744023820757
+Recursive took 1645 ns
+RECURSIVE is 4.768116 times slower than LOOP
+
+
+Position nr. 103
+6334266236422402381
+Loop took 713 ns
+6334266236422402381
+Recursive took 1774 ns
+RECURSIVE is 2.488079 times slower than LOOP
+
+
+Position nr. 102
+5035488507601418376
+Loop took 353 ns
+5035488507601418376
+Recursive took 1661 ns
+RECURSIVE is 4.705382 times slower than LOOP
+
+
+Position nr. 101
+1298777728820984005
+Loop took 308 ns
+1298777728820984005
+Recursive took 1588 ns
+RECURSIVE is 5.155844 times slower than LOOP
+
+
+Position nr. 100
+3736710778780434371
+Loop took 331 ns
+3736710778780434371
+Recursive took 1706 ns
+RECURSIVE is 5.154079 times slower than LOOP
+
+
+Position nr. 99
+16008811023750101250
+Loop took 281 ns
+16008811023750101250
+Recursive took 1581 ns
+RECURSIVE is 5.626335 times slower than LOOP
+
+
+Position nr. 98
+6174643828739884737
+Loop took 290 ns
+6174643828739884737
+Recursive took 1538 ns
+RECURSIVE is 5.303448 times slower than LOOP
+
+
+Position nr. 97
+9834167195010216513
+Loop took 281 ns
+9834167195010216513
+Recursive took 1521 ns
+RECURSIVE is 5.412811 times slower than LOOP
+
+
+Position nr. 96
+14787220707439219840
+Loop took 286 ns
+14787220707439219840
+Recursive took 1514 ns
+RECURSIVE is 5.293706 times slower than LOOP
+
+
+Position nr. 95
+13493690561280548289
+Loop took 308 ns
+13493690561280548289
+Recursive took 1596 ns
+RECURSIVE is 5.181818 times slower than LOOP
+
+
+Position nr. 94
+1293530146158671551
+Loop took 326 ns
+1293530146158671551
+Recursive took 1477 ns
+RECURSIVE is 4.530675 times slower than LOOP
+
+
+Position nr. 93
+12200160415121876738
+Loop took 283 ns
+12200160415121876738
+Recursive took 2534 ns
+RECURSIVE is 8.954064 times slower than LOOP
+
+
+Position nr. 92
+7540113804746346429
+Loop took 247 ns
+7540113804746346429
+Recursive took 1274 ns
+RECURSIVE is 5.157895 times slower than LOOP
+
+
+Position nr. 91
+4660046610375530309
+Loop took 232 ns
+4660046610375530309
+Recursive took 1258 ns
+RECURSIVE is 5.422414 times slower than LOOP
+
+
+Position nr. 90
+2880067194370816120
+Loop took 231 ns
+2880067194370816120
+Recursive took 1372 ns
+RECURSIVE is 5.939394 times slower than LOOP
+
+
+Position nr. 89
+1779979416004714189
+Loop took 228 ns
+1779979416004714189
+Recursive took 1228 ns
+RECURSIVE is 5.385965 times slower than LOOP
+
+
+Position nr. 88
+1100087778366101931
+Loop took 229 ns
+1100087778366101931
+Recursive took 1213 ns
+RECURSIVE is 5.296943 times slower than LOOP
+
+
+Position nr. 87
+679891637638612258
+Loop took 237 ns
+679891637638612258
+Recursive took 1262 ns
+RECURSIVE is 5.324895 times slower than LOOP
+
+
+Position nr. 86
+420196140727489673
+Loop took 227 ns
+420196140727489673
+Recursive took 1185 ns
+RECURSIVE is 5.220264 times slower than LOOP
+
+
+Position nr. 85
+259695496911122585
+Loop took 220 ns
+259695496911122585
+Recursive took 1171 ns
+RECURSIVE is 5.322727 times slower than LOOP
+
+
+Position nr. 84
+160500643816367088
+Loop took 219 ns
+160500643816367088
+Recursive took 1196 ns
+RECURSIVE is 5.461187 times slower than LOOP
+
+
+Position nr. 83
+99194853094755497
+Loop took 228 ns
+99194853094755497
+Recursive took 1188 ns
+RECURSIVE is 5.210526 times slower than LOOP
+
+
+Position nr. 82
+61305790721611591
+Loop took 341 ns
+61305790721611591
+Recursive took 1125 ns
+RECURSIVE is 3.299120 times slower than LOOP
+
+
+Position nr. 81
+37889062373143906
+Loop took 247 ns
+37889062373143906
+Recursive took 1237 ns
+RECURSIVE is 5.008097 times slower than LOOP
+
+
+Position nr. 80
+23416728348467685
+Loop took 240 ns
+23416728348467685
+Recursive took 1097 ns
+RECURSIVE is 4.570833 times slower than LOOP
+
+
+Position nr. 79
+14472334024676221
+Loop took 243 ns
+14472334024676221
+Recursive took 1081 ns
+RECURSIVE is 4.448560 times slower than LOOP
+
+
+Position nr. 78
+8944394323791464
+Loop took 263 ns
+8944394323791464
+Recursive took 1066 ns
+RECURSIVE is 4.053232 times slower than LOOP
+
+
+Position nr. 77
+5527939700884757
+Loop took 207 ns
+5527939700884757
+Recursive took 1085 ns
+RECURSIVE is 5.241546 times slower than LOOP
+
+
+Position nr. 76
+3416454622906707
+Loop took 205 ns
+3416454622906707
+Recursive took 1154 ns
+RECURSIVE is 5.629268 times slower than LOOP
+
+
+Position nr. 75
+2111485077978050
+Loop took 202 ns
+2111485077978050
+Recursive took 1104 ns
+RECURSIVE is 5.465347 times slower than LOOP
+
+
+Position nr. 74
+1304969544928657
+Loop took 452 ns
+1304969544928657
+Recursive took 1124 ns
+RECURSIVE is 2.486726 times slower than LOOP
+
+
+Position nr. 73
+806515533049393
+Loop took 307 ns
+806515533049393
+Recursive took 990 ns
+RECURSIVE is 3.224756 times slower than LOOP
+
+
+Position nr. 72
+498454011879264
+Loop took 245 ns
+498454011879264
+Recursive took 993 ns
+RECURSIVE is 4.053061 times slower than LOOP
+
+
+Position nr. 71
+308061521170129
+Loop took 197 ns
+308061521170129
+Recursive took 959 ns
+RECURSIVE is 4.868020 times slower than LOOP
+
+
+Position nr. 70
+190392490709135
+Loop took 196 ns
+190392490709135
+Recursive took 948 ns
+RECURSIVE is 4.836735 times slower than LOOP
+
+
+Position nr. 69
+117669030460994
+Loop took 192 ns
+117669030460994
+Recursive took 931 ns
+RECURSIVE is 4.848958 times slower than LOOP
+
+
+Position nr. 68
+72723460248141
+Loop took 201 ns
+72723460248141
+Recursive took 921 ns
+RECURSIVE is 4.582090 times slower than LOOP
+
+
+Position nr. 67
+44945570212853
+Loop took 191 ns
+44945570212853
+Recursive took 929 ns
+RECURSIVE is 4.863874 times slower than LOOP
+
+
+Position nr. 66
+27777890035288
+Loop took 198 ns
+27777890035288
+Recursive took 930 ns
+RECURSIVE is 4.696970 times slower than LOOP
+
+
+Position nr. 65
+17167680177565
+Loop took 185 ns
+17167680177565
+Recursive took 875 ns
+RECURSIVE is 4.729730 times slower than LOOP
+
+
+Position nr. 64
+10610209857723
+Loop took 185 ns
+10610209857723
+Recursive took 925 ns
+RECURSIVE is 5.000000 times slower than LOOP
+
+
+Position nr. 63
+6557470319842
+Loop took 191 ns
+6557470319842
+Recursive took 916 ns
+RECURSIVE is 4.795812 times slower than LOOP
+
+
+Position nr. 62
+4052739537881
+Loop took 182 ns
+4052739537881
+Recursive took 832 ns
+RECURSIVE is 4.571429 times slower than LOOP
+
+
+Position nr. 61
+2504730781961
+Loop took 181 ns
+2504730781961
+Recursive took 816 ns
+RECURSIVE is 4.508287 times slower than LOOP
+
+
+Position nr. 60
+1548008755920
+Loop took 178 ns
+1548008755920
+Recursive took 799 ns
+RECURSIVE is 4.488764 times slower than LOOP
+
+
+Position nr. 59
+956722026041
+Loop took 191 ns
+956722026041
+Recursive took 826 ns
+RECURSIVE is 4.324607 times slower than LOOP
+
+
+Position nr. 58
+591286729879
+Loop took 175 ns
+591286729879
+Recursive took 768 ns
+RECURSIVE is 4.388571 times slower than LOOP
+
+
+Position nr. 57
+365435296162
+Loop took 172 ns
+365435296162
+Recursive took 756 ns
+RECURSIVE is 4.395349 times slower than LOOP
+
+
+Position nr. 56
+225851433717
+Loop took 175 ns
+225851433717
+Recursive took 741 ns
+RECURSIVE is 4.234286 times slower than LOOP
+
+
+Position nr. 55
+139583862445
+Loop took 173 ns
+139583862445
+Recursive took 725 ns
+RECURSIVE is 4.190751 times slower than LOOP
+
+
+Position nr. 54
+86267571272
+Loop took 176 ns
+86267571272
+Recursive took 707 ns
+RECURSIVE is 4.017045 times slower than LOOP
+
+
+Position nr. 53
+53316291173
+Loop took 166 ns
+53316291173
+Recursive took 697 ns
+RECURSIVE is 4.198795 times slower than LOOP
+
+
+Position nr. 52
+32951280099
+Loop took 164 ns
+32951280099
+Recursive took 681 ns
+RECURSIVE is 4.152439 times slower than LOOP
+
+
+Position nr. 51
+20365011074
+Loop took 163 ns
+20365011074
+Recursive took 744 ns
+RECURSIVE is 4.564417 times slower than LOOP
+
+
+Position nr. 50
+12586269025
+Loop took 162 ns
+12586269025
+Recursive took 651 ns
+RECURSIVE is 4.018519 times slower than LOOP
+
+
+Position nr. 49
+7778742049
+Loop took 171 ns
+7778742049
+Recursive took 634 ns
+RECURSIVE is 3.707602 times slower than LOOP
+
+
+Position nr. 48
+4807526976
+Loop took 156 ns
+4807526976
+Recursive took 620 ns
+RECURSIVE is 3.974359 times slower than LOOP
+
+
+Position nr. 47
+2971215073
+Loop took 155 ns
+2971215073
+Recursive took 607 ns
+RECURSIVE is 3.916129 times slower than LOOP
+
+
+Position nr. 46
+1836311903
+Loop took 156 ns
+1836311903
+Recursive took 614 ns
+RECURSIVE is 3.935897 times slower than LOOP
+
+
+Position nr. 45
+1134903170
+Loop took 155 ns
+1134903170
+Recursive took 576 ns
+RECURSIVE is 3.716129 times slower than LOOP
+
+
+Position nr. 44
+701408733
+Loop took 162 ns
+701408733
+Recursive took 633 ns
+RECURSIVE is 3.907407 times slower than LOOP
+
+
+Position nr. 43
+433494437
+Loop took 151 ns
+433494437
+Recursive took 576 ns
+RECURSIVE is 3.814570 times slower than LOOP
+
+
+Position nr. 42
+267914296
+Loop took 289 ns
+267914296
+Recursive took 631 ns
+RECURSIVE is 2.183391 times slower than LOOP
+
+
+Position nr. 41
+165580141
+Loop took 298 ns
+165580141
+Recursive took 552 ns
+RECURSIVE is 1.852349 times slower than LOOP
+
+
+Position nr. 40
+102334155
+Loop took 201 ns
+102334155
+Recursive took 502 ns
+RECURSIVE is 2.497512 times slower than LOOP
+
+
+Position nr. 39
+63245986
+Loop took 228 ns
+63245986
+Recursive took 486 ns
+RECURSIVE is 2.131579 times slower than LOOP
+
+
+Position nr. 38
+39088169
+Loop took 176 ns
+39088169
+Recursive took 543 ns
+RECURSIVE is 3.085227 times slower than LOOP
+
+
+Position nr. 37
+24157817
+Loop took 207 ns
+24157817
+Recursive took 523 ns
+RECURSIVE is 2.526570 times slower than LOOP
+
+
+Position nr. 36
+14930352
+Loop took 181 ns
+14930352
+Recursive took 449 ns
+RECURSIVE is 2.480663 times slower than LOOP
+
+
+Position nr. 35
+9227465
+Loop took 210 ns
+9227465
+Recursive took 432 ns
+RECURSIVE is 2.057143 times slower than LOOP
+
+
+Position nr. 34
+5702887
+Loop took 177 ns
+5702887
+Recursive took 415 ns
+RECURSIVE is 2.344633 times slower than LOOP
+
+
+Position nr. 33
+3524578
+Loop took 143 ns
+3524578
+Recursive took 397 ns
+RECURSIVE is 2.776224 times slower than LOOP
+
+
+Position nr. 32
+2178309
+Loop took 134 ns
+2178309
+Recursive took 384 ns
+RECURSIVE is 2.865672 times slower than LOOP
+
+
+Position nr. 31
+1346269
+Loop took 136 ns
+1346269
+Recursive took 412 ns
+RECURSIVE is 3.029412 times slower than LOOP
+
+
+Position nr. 30
+832040
+Loop took 171 ns
+832040
+Recursive took 352 ns
+RECURSIVE is 2.058480 times slower than LOOP
+
+
+Position nr. 29
+514229
+Loop took 128 ns
+514229
+Recursive took 338 ns
+RECURSIVE is 2.640625 times slower than LOOP
+
+
+Position nr. 28
+317811
+Loop took 131 ns
+317811
+Recursive took 321 ns
+RECURSIVE is 2.450382 times slower than LOOP
+
+
+Position nr. 27
+196418
+Loop took 125 ns
+196418
+Recursive took 307 ns
+RECURSIVE is 2.456000 times slower than LOOP
+
+
+Position nr. 26
+121393
+Loop took 125 ns
+121393
+Recursive took 295 ns
+RECURSIVE is 2.360000 times slower than LOOP
+
+
+Position nr. 25
+75025
+Loop took 160 ns
+75025
+Recursive took 284 ns
+RECURSIVE is 1.775000 times slower than LOOP
+
+
+Position nr. 24
+46368
+Loop took 121 ns
+46368
+Recursive took 268 ns
+RECURSIVE is 2.214876 times slower than LOOP
+
+
+Position nr. 23
+28657
+Loop took 120 ns
+28657
+Recursive took 251 ns
+RECURSIVE is 2.091667 times slower than LOOP
+
+
+Position nr. 22
+17711
+Loop took 118 ns
+17711
+Recursive took 261 ns
+RECURSIVE is 2.211864 times slower than LOOP
+
+
+Position nr. 21
+10946
+Loop took 118 ns
+10946
+Recursive took 222 ns
+RECURSIVE is 1.881356 times slower than LOOP
+
+
+Position nr. 20
+6765
+Loop took 157 ns
+6765
+Recursive took 206 ns
+RECURSIVE is 1.312102 times slower than LOOP
+
+
+Position nr. 19
+4181
+Loop took 113 ns
+4181
+Recursive took 189 ns
+RECURSIVE is 1.672566 times slower than LOOP
+
+
+Position nr. 18
+2584
+Loop took 109 ns
+2584
+Recursive took 174 ns
+RECURSIVE is 1.596330 times slower than LOOP
+
+
+Position nr. 17
+1597
+Loop took 114 ns
+1597
+Recursive took 162 ns
+RECURSIVE is 1.421053 times slower than LOOP
+
+
+Position nr. 16
+987
+Loop took 146 ns
+987
+Recursive took 148 ns
+RECURSIVE is 1.013699 times slower than LOOP
+
+
+Position nr. 15
+610
+Loop took 121 ns
+610
+Recursive took 151 ns
+RECURSIVE is 1.247934 times slower than LOOP
+
+
+Position nr. 14
+377
+Loop took 141 ns
+377
+Recursive took 116 ns
+RECURSIVE is 1.215517 times faster than LOOP
+
+
+Position nr. 13
+233
+Loop took 128 ns
+233
+Recursive took 109 ns
+RECURSIVE is 1.174312 times faster than LOOP
+
+
+Position nr. 12
+144
+Loop took 121 ns
+144
+Recursive took 105 ns
+RECURSIVE is 1.152381 times faster than LOOP
+
+
+Position nr. 11
+89
+Loop took 138 ns
+89
+Recursive took 100 ns
+RECURSIVE is 1.380000 times faster than LOOP
+
+
+Position nr. 10
+55
+Loop took 119 ns
+55
+Recursive took 95 ns
+RECURSIVE is 1.252632 times faster than LOOP
+
+
+Position nr. 9
+34
+Loop took 112 ns
+34
+Recursive took 85 ns
+RECURSIVE is 1.317647 times faster than LOOP
+
+
+Position nr. 8
+21
+Loop took 111 ns
+21
+Recursive took 81 ns
+RECURSIVE is 1.370370 times faster than LOOP
+
+
+Position nr. 7
+13
+Loop took 130 ns
+13
+Recursive took 92 ns
+RECURSIVE is 1.413043 times faster than LOOP
+
+
+Position nr. 6
+8
+Loop took 131 ns
+8
+Recursive took 78 ns
+RECURSIVE is 1.679487 times faster than LOOP
+
+
+Position nr. 5
+5
+Loop took 119 ns
+5
+Recursive took 115 ns
+RECURSIVE is 1.034783 times faster than LOOP
+
+
+Position nr. 4
+3
+Loop took 120 ns
+3
+Recursive took 73 ns
+RECURSIVE is 1.643836 times faster than LOOP
+
+
+Position nr. 3
+2
+Loop took 101 ns
+2
+Recursive took 40 ns
+RECURSIVE is 2.525000 times faster than LOOP
+
+
+Position nr. 2
+1
+Loop took 105 ns
+1
+Recursive took 52 ns
+RECURSIVE is 2.019231 times faster than LOOP
+
+
+Position nr. 1
+1
+Loop took 112 ns
+1
+Recursive took 52 ns
+RECURSIVE is 2.153846 times faster than LOOP
+
+
+Position nr. 0
+0
+Loop took 102 ns
+0
+Recursive took 50 ns
+RECURSIVE is 2.040000 times faster than LOOP

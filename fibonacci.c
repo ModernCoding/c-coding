@@ -21,6 +21,13 @@ unsigned long long int get_nanoseconds (void);
 
 int main () {
 
+  FILE *pFile = fopen ("fibonacci.txt", "w");
+
+  if (pFile == NULL) {
+    printf ("Error opening file!\n");
+    return 1;
+  }
+
   int max = 0;
 
   printf ("Enter your max: ");
@@ -33,17 +40,17 @@ int main () {
 
   while (max > -1) {
 
-    printf ("\n\nPosition nr. %d\n", max);
+    fprintf (pFile, "\n\nPosition nr. %d\n", max);
 
     unsigned long long int tsFibLoopStart = get_nanoseconds ();
-    printf ("%llu\n", fibonacciLoop (max));
+    fprintf (pFile, "%llu\n", fibonacciLoop (max));
 
     unsigned long long int tsFibLoopStop = get_nanoseconds ();
     
     const unsigned long long int tsFibLoop
       = tsFibLoopStop - tsFibLoopStart;
     
-    printf ("Loop took %llu ns\n", tsFibLoop);
+    fprintf (pFile, "Loop took %llu ns\n", tsFibLoop);
 
     int i = 0;
     unsigned long long int previous1 = 0;
@@ -58,16 +65,19 @@ int main () {
     const unsigned long long int tsFibRecursive
       = tsFibRecursiveStop - tsFibRecursiveStart;
     
-    printf ("%llu\n", sum);
-    printf ("Recursive took %llu ns\n", tsFibRecursive);
+    fprintf (pFile, "%llu\n", sum);
+    fprintf (pFile, "Recursive took %llu ns\n", tsFibRecursive);
     
     if (tsFibRecursive == tsFibLoop) {
-      printf ("SAME SPEED!");
+      fprintf (pFile, "SAME SPEED!");
     }
 
     else {
 
-      printf (
+      fprintf (
+
+        pFile,
+
         "RECURSIVE is %Lf times %s than LOOP\n",
 
         tsFibRecursive > tsFibLoop
@@ -82,8 +92,13 @@ int main () {
     max--;
 
   }
+
+
+  printf ("File was written successfully!\n");
+  fclose (pFile);
   
   return 0;
+
 }
 
 

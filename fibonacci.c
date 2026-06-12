@@ -4,47 +4,84 @@
 
 // prototypes
 
-long long fibonacciLoop (int i);
+unsigned long long int fibonacciLoop (int i);
 
 void fibonacciRecursive (
   const int *max,
   int *i,
-  long long *previous1,
-  long long *previous2,
-  long long *sum
+  unsigned long long int *previous1,
+  unsigned long long int *previous2,
+  unsigned long long int *sum
 );
 
-long long get_nanoseconds (void);
+unsigned long long int get_nanoseconds (void);
 
 
 // main
 
 int main () {
 
-  const int max = 88;
+  int max = 0;
 
-  long long tsFibLoopStart = get_nanoseconds ();
-  printf ("%lld\n", fibonacciLoop (max));
+  printf ("Enter your max: ");
+  scanf ("%d", &max);
 
-  long long tsFibLoopStop = get_nanoseconds ();
-  printf ("Loop took %lld ns\n", tsFibLoopStop - tsFibLoopStart);
+  getchar ();
+    /*
+      Consume the newline character left by previous scanf
+    */
 
-  int i = 0;
-  long long previous1 = 0;
-  long long previous2 = 0;
-  long long sum = 0;
-  long long tsFibRecursiveStart = get_nanoseconds ();
+  while (max > -1) {
 
-  fibonacciRecursive (&max, &i, &previous1, &previous2, &sum);
+    printf ("\n\nPosition nr. %d\n", max);
 
-  long long tsFibRecursiveStop = get_nanoseconds ();
-  
-  printf ("%lld\n", sum);
-  
-  printf (
-    "Recursive took %lld ns\n",
-    tsFibRecursiveStop - tsFibRecursiveStart
-  );
+    unsigned long long int tsFibLoopStart = get_nanoseconds ();
+    printf ("%llu\n", fibonacciLoop (max));
+
+    unsigned long long int tsFibLoopStop = get_nanoseconds ();
+    
+    const unsigned long long int tsFibLoop
+      = tsFibLoopStop - tsFibLoopStart;
+    
+    printf ("Loop took %llu ns\n", tsFibLoop);
+
+    int i = 0;
+    unsigned long long int previous1 = 0;
+    unsigned long long int previous2 = 0;
+    unsigned long long int sum = 0;
+    unsigned long long int tsFibRecursiveStart = get_nanoseconds ();
+
+    fibonacciRecursive (&max, &i, &previous1, &previous2, &sum);
+
+    unsigned long long int tsFibRecursiveStop = get_nanoseconds ();
+    
+    const unsigned long long int tsFibRecursive
+      = tsFibRecursiveStop - tsFibRecursiveStart;
+    
+    printf ("%llu\n", sum);
+    printf ("Recursive took %llu ns\n", tsFibRecursive);
+    
+    if (tsFibRecursive == tsFibLoop) {
+      printf ("SAME SPEED!");
+    }
+
+    else {
+
+      printf (
+        "RECURSIVE is %Lf times %s than LOOP\n",
+
+        tsFibRecursive > tsFibLoop
+          ? (long double) tsFibRecursive / (long double) tsFibLoop
+          : (long double) tsFibLoop / (long double) tsFibRecursive,
+
+        tsFibRecursive < tsFibLoop ? "faster" : "slower"
+      );
+
+    } 
+
+    max--;
+
+  }
   
   return 0;
 }
@@ -52,9 +89,9 @@ int main () {
 
 // functions
 
-long long fibonacciLoop (int i) {
+unsigned long long int fibonacciLoop (int i) {
 
-  long long previous1 = 0, previous2 = 0, sum = 0;
+  unsigned long long int previous1 = 0, previous2 = 0, sum = 0;
 
   for (int j = 0; j <= i; j++) {
     sum = j == 1 ? 1 : previous1 + previous2;
@@ -70,9 +107,9 @@ long long fibonacciLoop (int i) {
 void fibonacciRecursive (
   const int *max,
   int *i,
-  long long *previous1,
-  long long *previous2,
-  long long *sum
+  unsigned long long int *previous1,
+  unsigned long long int *previous2,
+  unsigned long long int *sum
 ) {
 
   if (*i > *max) {
@@ -89,7 +126,7 @@ void fibonacciRecursive (
 }
 
 
-long long get_nanoseconds (void) {
+unsigned long long int get_nanoseconds (void) {
 
   struct timespec ts;
   
@@ -97,6 +134,6 @@ long long get_nanoseconds (void) {
   clock_gettime (CLOCK_MONOTONIC, &ts);
   
   // Convert seconds to ns and add nanoseconds
-  return (long long) ts.tv_sec * 1000000000LL
-    + (long long) ts.tv_nsec;
+  return (unsigned long long int) ts.tv_sec * 1000000000LL
+    + (unsigned long long int) ts.tv_nsec;
 }
